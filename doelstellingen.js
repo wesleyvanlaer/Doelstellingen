@@ -4,60 +4,60 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Business Essentials",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
     "1.2 Opstellen van een business model canvas": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Business Essentials",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "BPMN",
       "bewijs": ""
     },
     "1.4 Optimaliseren van businessprocessen": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "td",
       "verified": "",
-      "project": "",
+      "project": "BPMN",
       "bewijs": ""
     }
   },
   "2 ANALYSEREN - Je identificeert de functionele en niet-functionele eisen van een klant en vertaalt deze naar heldere documenten en begrijpbare schema's.": {
     "2.1 Afleiden van functionele en niet-functionele eisen uit een opdracht en interview": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"
     },
     "2.2 Functionele en niet-functionele eisen verwerken en rangschikken als startpunt van een (Agile) project": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Aquaterarium WebApp - Kogeka, Requirements Analysis",
+      "bewijs": "Dit heb ik behaald aan de hand van het aanpassen van het Trello bord voor het project Aquaterarium WebApp - Kogeka.<br/>Link: <a href='https://trello.com/b/BHsZyKHw/kickoff-project' target='_blank'>Trello</a><img src='assets/2.2/trello.png' alt='Trello Aquaterarium WebApp - Kogeka' />"
     }
   },
   "3 ANALYSEREN - Je onderzoekt en evalueert mogelijke oplossingen en verbeteringen, en maakt onderbouwde keuzes voor platformen, software en hardware.": {
     "3.1 Onderzoeken en selecteren van passende frameworks, tools en libraries": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Voedingsdagboek - Ouders Voor Inclusie",
+      "bewijs": "Tom en ik hebben voor dit project onderzoek gedaan naar diverse frameworks, tools en libraries voor Mobile Application Development. We hebben dit gedaan door de documentatie, reviews en populariteit van verschillende opties te onderzoeken. Uiteindelijk hebben we besloten om te werken met React Native in combinatie met het Expo Framework."
     },
     "3.2 Analyseren en beoordelen van (semi-)out-of-the-box (deel)oplossingen voor functionaliteiten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Requirements Analysis",
       "bewijs": ""
     },
     "3.3 Exploreren en analyseren van data via wetenschappelijke en statistische methoden": {
@@ -76,9 +76,9 @@ const doelstellingen = {
     },
     "3.5 Selecteren van de meest geschikte datavisualisaties voor beheer en beslissingsondersteuning": {
       "type": ["app", "ai", "iot"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Data Visualisatie",
       "bewijs": ""
     },
     "3.6 Onderbouwd selecteren van IoT protocollen en componenten": {
@@ -120,30 +120,30 @@ const doelstellingen = {
     },
     "4.2 Opdelen van een conceptuele totaaloplossing in kleinere items of deeloplossingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "OVI - Ouders Voor Inclusie",
       "bewijs": ""
     },
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/4.3/Credits.png' target='_blank'>hier</a>:<img src='assets/4.3/Credits.png' alt='Requirements Analysis Credit' />"
     },
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/4.4/Credits.png' target='_blank'>hier</a>:<img src='assets/4.4/Credits.png' alt='Requirements Analysis Credit' />"
     },
     "4.5 Onderbouwd gebruik maken van design patterns": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Java Advanced",
       "bewijs": ""
     },
     "4.6 Verzamelen en transformeren van data om deze toegankelijk te maken voor andere toepassingen": {
@@ -162,9 +162,9 @@ const doelstellingen = {
     },
     "4.8 Klaarmaken en opschonen van data voor AI toepassingen": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Data Science",
       "bewijs": ""
     },
     "4.9 Opmaken van smart environments/domotica diagramma en tekeningen": {
@@ -199,18 +199,18 @@ const doelstellingen = {
     },
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "ovi - Ouders Voor Inclusie, kogeka",
       "bewijs": ""
     }
   },
   "6 BOUWEN - Je realiseert en ondersteunt de integratie en implementatie van je oplossingen en bijbehorende datastructuren of procesaanpassingen in de bestaande bedrijfsomgeving.": {
     "6.1 Gebruik van Git": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "kogeka, voedingsdagboek - Ouders Voor Inclusie",
       "bewijs": ""
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
@@ -224,8 +224,8 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "linux Webserices",
+      "bewijs": "na te vragen bij docent"
     },
     "6.4 Uitbouw en gebruik van continuous integration met testing": {
       "type": ["alles"],
@@ -236,9 +236,9 @@ const doelstellingen = {
     },
     "6.5 Opleveren van een artifact": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "kogeka, voedingsdagboek - Ouders Voor Inclusie",
       "bewijs": ""
     },
     "6.6 Integreren van dashboards in bestaande applicaties": {
@@ -266,45 +266,45 @@ const doelstellingen = {
   "7 BOUWEN - Je bouwt en ontwikkelt oplossingen met aandacht voor gemaakte afspraken en reeds bestaande bouwstenen of oplossingen. Je maakt hierbij gebruik van standaarden, patronen en frameworks.": {
     "7.1 Bouwen van REST API's met een modern framework": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Java Advanced",
       "bewijs": ""
     },
     "7.2 Gebruiken van een ORM framework": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Java Advanced",
       "bewijs": ""
     },
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Aquaterarium WebApp - Kogeka",
+      "bewijs": "In het Kogeka project hebben we het full-stack framework genaamd 'Laravel' gebruikt."
     },
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
       "status": "",
       "verified": "",
-      "project": "",
+      "project": "BPMN",
       "bewijs": ""
     },
     "7.5 Toepassen van machine learning algoritmen": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "RTTF",
       "bewijs": ""
     },
     "7.6 Bouwen van een cross-platform mobile applicatie": {
       "type": ["app"],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Voedingsdagboek - Ouders Voor Inclusie",
+      "bewijs": "Voor het projectVoedingsdagboek - Ouders Voor Inclusie hebben Tom en ik een cross-platform mobile applicatie gemaakt met React Native en het Expo Framework."
     },
     "7.7 Toevoegen van augmented reality functionaliteiten aan applicaties": {
       "type": ["app"],
@@ -343,9 +343,9 @@ const doelstellingen = {
     },
     "7.12 Opbouwen van dashboards en datavisualisaties ter ondersteuning van beslissingen en management": {
       "type": ["app", "ai", "iot"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Data Visualisatie",
       "bewijs": ""
     },
     "7.13 Programmeren van FPGA's, gebruik makend van combinatorische en sequentiële schakelingen": {
@@ -429,16 +429,16 @@ const doelstellingen = {
   "8 BOUWEN - Je test zowel alle deelaspecten van je oplossing als de integratie op werking, performantie en mogelijke zwakke punten.": {
     "8.1 Uitbouwen en gebruiken van unit & integration testing": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Java Advance",
       "bewijs": ""
     },
     "8.2 Uitbouwen en gebruiken van user testing": {
       "type": ["app", "ai"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Kogeka",
       "bewijs": ""
     },
     "8.3 Uittesten en de kwaliteit evalueren van data modellen en algoritmen": {
@@ -468,22 +468,22 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Kogeka,",
+      "bewijs": "nog te vragen bij docent"
     },
     "9.2 Opzetten van container virtualisatie voor software": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Linux Webserices",
       "bewijs": ""
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Portfolio",
+      "bewijs": "https is geïmplementeerd op deze website."
     },
     "9.4 Opzetten van data automatisatie processen om analyseservices aan te sturen": {
       "type": ["ai"],
@@ -501,9 +501,9 @@ const doelstellingen = {
     },
     "9.6 Configureren en beschrijven van de DNS functionaliteiten in verschillende soorten netwerken": {
       "type": ["app", "ai", "ccs"],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "ovi - Ouders Voor Inclusie, Portfolio",
       "bewijs": ""
     },
     "9.7 Programmatie en configuratie van smart environment componenten en protocollen": {
@@ -552,23 +552,23 @@ const doelstellingen = {
   "10 BEHEREN - Je evalueert en implementeert passende maatregelen die nodig zijn om oplossingen blijvend te beveiligen tegen risico's.": {
     "10.1 Gebruiken van correcte weerstanden en andere veiligheidsmaatregelen tijdens het opbouwen van een schakeling": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Schrappen!!",
       "bewijs": ""
     },
     "10.2 Beveiligen van webapplicaties en API's": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Java Advanced",
       "bewijs": ""
     },
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "ovi - Ouders Voor Inclusie, Kogeka",
       "bewijs": ""
     },
     "10.4 Implementeren van veilige netwerkverbindingen met relevante technologieën zoals VPN, TLS…": {
@@ -654,52 +654,52 @@ const doelstellingen = {
   "12 COMMUNICEREN - Je communiceert doeltreffend mondeling en schriftelijk in het Nederlands en een vreemde taal, rekening houdend met je doelpubliek.": {
     "12.1 Opstellen van een kort paper met correcte bronvermelding": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Schrappen!!",
       "bewijs": ""
     },
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis, Tech talk",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Kogeka, Voedingsdagboek - Ouders Voor Inclusie",
       "bewijs": ""
     },
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"    
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "Stage",
       "bewijs": ""
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Englisch ",
       "bewijs": ""
     },
     "12.7 Luisteren, spreken, lezen en schrijven in het Frans of een niet-moedertaal": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Englisch",
+      "bewijs": ""                      
     }
   },
   "13 COMMUNICEREN - Je onderhoudt bestaande documentatie en stelt nieuwe documentatie op voor oplossingen en systemen, met aandacht voor het passende niveau van detail.": {
@@ -719,16 +719,16 @@ const doelstellingen = {
     },
     "13.3 Opstellen van installatiehandleidingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Kogeka",
+      "bewijs": "<a href='assets/13.3/Installatiehandeleiding Kogeka - hosting Combell.pdf' target='_blank'>Klik hier voor de handleiding te zien.</a>/>"
     },
     "13.4 Uitschrijven en aanpassen van testprocedures": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Java Advanced",
       "bewijs": ""
     }
   },
@@ -737,14 +737,14 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "Tech Talk",
       "bewijs": ""
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "Kogeka",
       "bewijs": ""
     }
   },
@@ -760,8 +760,8 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Business Essentials - Project",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
     "15.3 Als intrapreneur verantwoordelijkheid en eigenaarschap opnemen": {
       "type": ["alles"],
@@ -783,7 +783,7 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "Tech Talk",
       "bewijs": ""
     }
   },
@@ -792,7 +792,7 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "Vervang Opdradcht ITIL",
       "bewijs": ""
     },
     "17.2 Beschrijven en rekening houden met privacy en GDPR regelgeving": {
@@ -813,17 +813,17 @@ const doelstellingen = {
   "18 ONDERNEMEN - Je stelt de klant centraal.": {
     "18.1 Pitchen van een idee voor klanten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"    
     },
     "18.2 Bewust rekening houden met het niveau van IT kennis van een klant": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"    
     }
   },
   "19 PROJECTMATIG WERKEN - Je pakt opdrachten planmatig en projectmatig aan, rekening houdend met budget, middelen en tijd.": {
@@ -831,21 +831,21 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "ovi - Ouders Voor Inclusie,",
+      "bewijs": "nog te passen - Trello gebruikt voor projectmanagement"
     },
     "19.2 Toepassen en documenteren van de Agile methodologie": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Requirements Analysis, Kogeka, Voedingsdagboek - Ouders Voor Inclusie",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"
     },
     "19.3 Regelmatig rapporteren over projectvoortgang": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Feedpulse gespreken",
       "bewijs": ""
     }
   },
@@ -859,39 +859,39 @@ const doelstellingen = {
     },
     "20.2 Zich correct opstellen in een conflictsituatie": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Kogeka",
       "bewijs": ""
     },
     "20.3 Actief deelnemen aan en leiden van vergaderingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Voedingsdagboek",
       "bewijs": ""
     }
   },
   "21 PROFESSIONEEL HANDELEN - Je evalueert je eigen functioneren en je stuurt dit bij.": {
     "21.1 Benoemen en werken aan persoonlijke sterktes en werkpunten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "POP",
       "bewijs": ""
     },
     "21.2 Evalueren en bijsturen van eigen handelen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "POP",
       "bewijs": ""
     },
     "21.3 Opstellen en volgen van een formeel remediëringsplan": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "POP",
       "bewijs": ""
     },
     "21.4 Tonen van een permanente IT security awareness tijdens het werken": {
@@ -930,31 +930,31 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "RZL",
       "bewijs": ""
     },
     "23.2 Maken van een neutrale analyse bij fouten, tegenslagen en mislukkingen zonder verantwoordelijkheid uit de weg te gaan": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "Kogeka",
       "bewijs": ""
     }
   },
   "24 PROFESSIONEEL HANDELEN - Je doet aan levenslang leren en roept tijdig externe deskundigheid in.": {
     "24.1 Zelfstandig bijkomende opleidingen kiezen en succesvol afleggen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Cursus Odoo - Nog na te vragen bij docent",
+      "bewijs": "Rechts klik &rarr; open in nieuw tabblad voor grotere versie of klik <a href='assets/24.1/2023-03-02 Certificaat ODOO.pdf' target='_blank'>hier</a>:<img src='assets/24.1/2023-03-02 Certificaat ODOO.pdf' alt='Certificaat Cursus Odoo' />"
     },
     "24.2 Proactief externe deskundigheid inroepen wanneer nodig": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Voedingsdagboek - Ouders Voor Inclusie",
+      "bewijs": "Voor het project Voedingsdagboek - Ouders Voor Inclusie hebben we externe deskundigen ingeschakeld om ons te assisteren bij specifieke problemen die we niet zelf konden oplossen."
     }
   }
 }
