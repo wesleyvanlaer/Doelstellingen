@@ -468,8 +468,19 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "KGK-001 - Kogeka,",
-      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor de test hebben we een hosting geconfigureerd. We hebben de applicatie gehost op een server en Dit heeft ons geholpen om de applicatie te hosten en te testen in een productieomgeving.<br/><br/>Hier ziet u een screenshot:<br/><img src='assets/9.1/kgk.png'/>`
+      "project": "KGK-001 - Kogeka",
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:
+      <br/> 
+      Voor het project hebben een testhosting op gezet bij dezelfde hostingprovider (combell), hebben we een hostingomgeving geconfigureerd waardat we een script voor hadden voorzien om de nieuwe pulls automatisch binnen te halen en de initiele setup. wat ons heeft geholpen om de applicatie te testen in een productieomgeving.
+      <br/><br/>
+      Hier ziet u de screenshots:
+      <br/><img src='assets/9.1/kgk.png'/> 
+      <br/><img src='assets/9.1/subdomein.png'/>
+      <br/><img src='assets/9.1/start-script.png'/>
+      <br/><img src='assets/9.1/update-script.png'/>       
+      <br/><br/><br/>
+      We moesten ook een manier vinden om onze webapplicatie lokaal te hosten en testen. We kozen voor XAMPP, een open-source, cross-platform webserver die Apache, MySQL, PHP ondersteunt. Deze keuze was ideaal voor ons project met PHP en databases. XAMPP maakte het eenvoudig om MySQL in te stellen en phpMyAdmin te gebruiken voor databasebeheer, wat ons test- en debugproces aanzienlijk vereenvoudigde.`
+
     },
     "9.2 Opzetten van container virtualisatie voor software": {
       "type": ["alles"],
@@ -483,7 +494,16 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Portfolio",
-      "bewijs": "https is geïmplementeerd op deze website."
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:
+      <br/> https is geïmplementeerd op mijn portfolio website. Dit is gedaan door een SSL-certificaat te installeren op de server. Hierdoor wordt de verbinding tussen de server en de browser van de gebruiker versleuteld. Dit zorgt ervoor dat de data die verstuurd wordt tussen de server en de browser veilig is en niet onderschept kan worden door derden.
+      <br/><br/>
+      Hier ziet u de screenshots:
+      <br/><img src='assets/9.3/ssl.png'/>
+      <br/><br/>
+      Ook is een registar lock op de domeinnaam geactiveerd. Dit zorgt ervoor dat de domeinnaam niet zomaar kan overgedragen worden naar een andere partij. Dit is een extra beveiligingslaag om te voorkomen dat de domeinnaam onrechtmatig wordt overgedragen. De DNSSEC is ook geactiveerd. Dit is een extra beveiligingslaag die ervoor zorgt dat de DNS-records van de domeinnaam niet kunnen worden vervalst.
+      <br/><img src='assets/9.3/lock.png'/>`
+
+
     },
     "9.4 Opzetten van data automatisatie processen om analyseservices aan te sturen": {
       "type": ["ai"],
