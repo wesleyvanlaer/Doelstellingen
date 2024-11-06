@@ -115,8 +115,10 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "Vervang Opdracht ITIL?",
-      "bewijs": ""
+      "project": "KGK-001 - Kogeka",
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>
+      het implementeren van een CRUD-systeem bij het project KGK. Door het ontwikkelen en integreren van de CRUD-functionaliteiten (Create, Read, Update, Delete), heb ik ervoor gezorgd dat onze data-infrastructuur flexibel en toekomstbestendig is. Dit systeem stelt ons in staat om efficiënt om te gaan met veranderingen en snel aanpassingen door te voeren wanneer dat nodig is.`
+
     },
     "4.2 Opdelen van een conceptuele totaaloplossing in kleinere items of deeloplossingen": {
       "type": ["alles"],
@@ -661,10 +663,12 @@ const doelstellingen = {
   "11 BEHEREN - Je doet onderhoud, voert aanpassingen door en lost problemen op een systematische manier op zodat oplossingen blijven beantwoorden aan serviceniveaus en aan de veranderende behoeften van een organisatie.": {
     "11.1 Troubleshooten en aanpassen van bestaande software": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "KGK-001 - Kogeka",
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:
+      <br/> 
+      Na de oplevering van het project heb ik de support en onderhoud van de applicatie op mij genomen. Dit hield in dat ik eventuele bugs en problemen oploste. Dit heb ik gedaan door de codebase (ook door code van anderen) te analyseren, de problemen te identificeren en vervolgens de nodige aanpassingen door te voeren. Dit proces was systematisch en gestructureerd, waarbij ik de impact van elke wijziging zorgvuldig afwoog en testte voordat deze werd geïmplementeerd. Hierdoor kon ik de stabiliteit en prestaties van de applicatie behouden en verbeteren.`
     },
     "11.2 Controleren en troubleshooten van smart environment en IoT cloud architecturen": {
       "type": ["iot"],
@@ -712,10 +716,10 @@ const doelstellingen = {
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "Stage",
-      "bewijs": ""
+      "bewijs": "Behaald doormiddel van:<br/>mijn sollicitatieproces voor een stage. Tijdens deze periode heb ik verschillende bedrijven benaderd, waarbij ik zorgvuldig mijn communicatie voorbereidde en onderhield. Dit omvatte het schrijven van professionele e-mails, het voeren van netwerkgesprekken en het opvolgen van mijn sollicitaties. Door deze aanpak heb ik niet alleen waardevolle contacten gelegd, maar ook mijn professionele vaardigheden verder ontwikkeld. <br/><br/> <img src='assets/12.3/stage.png'/>"
     },
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
@@ -726,10 +730,10 @@ const doelstellingen = {
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "Stage",
-      "bewijs": ""
+      "bewijs": "Behaald doormiddel van:<br/>mijn sollicitatieproces voor een stage. Tijdens deze periode heb ik verschillende bedrijven benaderd, waarbij ik zorgvuldig mijn communicatie voorbereidde en onderhield. Dit omvatte het schrijven van professionele e-mails, het voeren van netwerkgesprekken en het opvolgen van mijn sollicitaties. Door deze aanpak heb ik niet alleen waardevolle contacten gelegd, maar ook mijn professionele vaardigheden verder ontwikkeld. <br/><br/> <img src='assets/12.3/stage.png'/>"
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
@@ -834,17 +838,17 @@ const doelstellingen = {
   "17 ONDERNEMEN - Je houdt rekening met economische randvoorwaarden, relevante regelgeving, best practices en bewaakt de toepassing van het kwaliteitsbeleid van de organisatie.": {
     "17.1 Beschrijven en rekening houden met de relevante ITIL practices": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "Vervang Opdracht ITIL",
-      "bewijs": ""
+      "bewijs": `${makeAccordion(KGK)} <a href='assets/17.1/ITIL.pdf' target='_blank'>Klik hier voor het document te bekijken.</a>`
     },
     "17.2 Beschrijven en rekening houden met privacy en GDPR regelgeving": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "OVI-001 - Voedingsdagboek",
+      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Voor het OVI project hebben we een GDPR Document opgesteld en hier in de app mee rekening gehouden. Hieronder vindt u het document terug: <a href='assets/17.2/GDPR - OVI.pdf' target='_blank'>Klik hier voor het document te bekijken.</a>`
     },
     "17.3 Beschrijven en rekening houden met technische regelgeving": {
       "type": ["ccs", "iot"],
