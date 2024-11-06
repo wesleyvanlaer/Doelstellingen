@@ -49,7 +49,7 @@ const doelstellingen = {
     "3.1 Onderzoeken en selecteren van passende frameworks, tools en libraries": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Tom en ik hebben voor dit project onderzoek gedaan naar diverse frameworks, tools en libraries voor Mobile Application Development. We hebben dit gedaan door de documentatie, reviews en populariteit van verschillende opties te onderzoeken. Uiteindelijk hebben we besloten om te werken met React Native in combinatie met het Expo Framework.`  
     },
@@ -113,8 +113,8 @@ const doelstellingen = {
   "4 ONTWERPEN - Je vertaalt eisen, veranderingsbehoeften en gegevens in kwaliteitsvolle conceptuele modellen en datastructuren. Je houdt daarbij rekening met standaarden, flexibiliteit, stabiliteit, volledigheid en efficiëntie.": {
     "4.1 Anticipeert toekomstige veranderingen en ondersteunt hierbij het change management": {
       "type": ["alles"],
-      "status": "td",
-      "verified": "",
+      "status": "d",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>
       het implementeren van een CRUD-systeem bij het project KGK. Door het ontwikkelen en integreren van de CRUD-functionaliteiten (Create, Read, Update, Delete), heb ik ervoor gezorgd dat onze data-infrastructuur flexibel en toekomstbestendig is. Dit systeem stelt ons in staat om efficiënt om te gaan met veranderingen en snel aanpassingen door te voeren wanneer dat nodig is.`
@@ -123,7 +123,7 @@ const doelstellingen = {
     "4.2 Opdelen van een conceptuele totaaloplossing in kleinere items of deeloplossingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/> 
       Bij het ontwikkelen van de Voedingsdagboek App hebben we de conceptuele totaaloplossing opgedeeld in kleinere, beheersbare items of deeloplossingen. Deze aanpak stelde ons in staat om gefocust te blijven op specifieke onderdelen van de app, wat de efficiëntie en kwaliteit van het eindproduct ten goede kwam.
@@ -153,7 +153,7 @@ const doelstellingen = {
     "4.5 Onderbouwd gebruik maken van design patterns": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Java Advanced",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/JA.png' target='_blank'>hier</a>:<img src='assets/credits/JA.png' alt='Java Advanced Credit' />"
     },
@@ -174,7 +174,7 @@ const doelstellingen = {
     "4.8 Klaarmaken en opschonen van data voor AI toepassingen": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Data Science",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/DS.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Data Science Credit' />"
     },
@@ -203,16 +203,16 @@ const doelstellingen = {
   "5 ONTWERPEN - Je toetst je oplossingen aan de vereisten van de klant doorheen het ontwerp- en ontwikkelproces.": {
     "5.1 Deelnemen aan en leiden van sprint reviews en demo meetings": {
       "type": ["alles"],
-      "status": "d",
-      "verified": "",
-      "project": "TM-012 - Pikassa",
+      "status": "ip",
+      "verified": "Jochen",
+      "project": "TM-012 - Pikassa, ook eigen startproject",
       "bewijs": `${makeAccordion(Pikassa)} Behaald doormiddel van:<br/>
       Van 23 september 2024 tot 30 september 2024 heb ik samen met César en van 17 oktober 2024 tot 22 oktober 2024 heb ik samen met Tom de rol van scrum master vervuld voor het Pikkassa-project van de tweedejaarsstudenten. <br/> Gedurende deze weken hebben we de dagelijkse stand-ups en een demo meeting geleid, waarbij we de studenten vroegen naar hun dagelijkse voortgang en hun plannen voor de komende dagen. <br/> Aan het einde van de week hebben we ook de retrospective geleid. We hebben de studenten aangemoedigd om hun best te doen en ervoor gezorgd dat ze hun werk op tijd af hadden.`
     },
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>De schermen die we gemaakt hebben bij het opstarten van het Voedingsdagboek project. Hierbij hebben we de klant betrokken en feedback gevraagd. Dit hebben we gedaan door middel van een presentatie en een demo van de applicatie. De klant heeft feedback geven en was zeer tevreden met het resultaat en heeft ons groen licht gegeven om verder te gaan met de ontwikkeling van de applicatie.<br/><br/>Hier ziet u de schermen die we gemaakt hebben:<br/><img src='assets/5.2/ovi.png'/>`
     }
@@ -221,7 +221,7 @@ const doelstellingen = {
     "6.1 Gebruik van Git": {
       "type": ["alles"],
       "status": "d",
-      "verified": "Bram",
+      "verified": "Bram Heyns",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Wij hebben gebruik gemaakt van Git voor het bijhouden van onze code. Dit heeft ons geholpen op verschillende manieren: 
       <br/>
@@ -244,7 +244,7 @@ const doelstellingen = {
     "6.3 Opleveren van een container image, ondersteund door environment variables": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "linux Webserices",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/LW.png' target='_blank'>hier</a>:<img src='assets/credits/LW.png' alt='linux Webserices Credit' />"
     },
@@ -293,14 +293,14 @@ const doelstellingen = {
     "7.1 Bouwen van REST API's met een modern framework": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Java Advanced",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/JA.png' target='_blank'>hier</a>:<img src='assets/credits/JA.png' alt='Java Advanced Credit' />"
     },
     "7.2 Gebruiken van een ORM framework": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Java Advanced",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/JA.png' target='_blank'>hier</a>:<img src='assets/credits/JA.png' alt='Java Advanced Credit' />"
     },
@@ -322,7 +322,7 @@ const doelstellingen = {
       "type": ["app", "ai"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "P4.0",
       "bewijs": ""
     },
     "7.6 Bouwen van een cross-platform mobile applicatie": {
@@ -456,14 +456,14 @@ const doelstellingen = {
     "8.1 Uitbouwen en gebruiken van unit & integration testing": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Java Advanced",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/JA.png' target='_blank'>hier</a>:<img src='assets/credits/JA.png' alt='Java Advanced Credit' />"
     },
     "8.2 Uitbouwen en gebruiken van user testing": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project hebben we gebruik gemaakt van user testing. We hebben de applicatie getest met de eindgebruikers, in dit geval de leerkrachten en leerlingen van de opleiding Dierenzorg. We hebben feedback verzameld en deze verwerkt in de applicatie. Dit heeft ons geholpen om de applicatie te verbeteren en aan te passen aan de noden van de eindgebruikers.`
     },
@@ -493,7 +493,7 @@ const doelstellingen = {
     "9.1 Installeren en configureren van webserver stacks": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Verbruggen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:
       <br/> 
@@ -511,14 +511,14 @@ const doelstellingen = {
     "9.2 Opzetten van container virtualisatie voor software": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Verbruggen",
       "project": "Linux Webserices",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/LW.png' target='_blank'>hier</a>:<img src='assets/credits/LW.png' alt='linux Webserices Credit' />"
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Verbruggen",
       "project": "Portfolio",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:
       <br/> https is geïmplementeerd op mijn portfolio website. Dit is gedaan door een SSL-certificaat te installeren op de server. Hierdoor wordt de verbinding tussen de server en de browser van de gebruiker versleuteld. Dit zorgt ervoor dat de data die verstuurd wordt tussen de server en de browser veilig is en niet onderschept kan worden door derden.
@@ -599,7 +599,7 @@ const doelstellingen = {
     "10.1 Gebruiken van correcte weerstanden en andere veiligheidsmaatregelen tijdens het opbouwen van een schakeling": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Niet Van Toepassing",
       "bewijs": ""
     },
@@ -613,7 +613,7 @@ const doelstellingen = {
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>We hebben rekening gehouden met de toekomstige aanpasbaarheid van de applicatie door gebruik te maken van een modulaire opbouw. Hierdoor kunnen ze gemakkelijk nieuwe items en categorieën toevoegen aan de applicatie. Ook hebben we gebruik gemaakt van een database om de data op te slaan. Hierdoor kunnen ze gemakkelijk data toevoegen en uitschakelen zonder dat de applicatie moet aangepast worden.`
     },
@@ -664,7 +664,7 @@ const doelstellingen = {
     "11.1 Troubleshooten en aanpassen van bestaande software": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:
       <br/> 
@@ -703,7 +703,7 @@ const doelstellingen = {
     "12.1 Opstellen van een kort paper met correcte bronvermelding": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Niet van toepassing",
       "bewijs": ""
     },
@@ -717,8 +717,8 @@ const doelstellingen = {
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
-      "project": "Stage",
+      "verified": "Jochen",
+      "project": "Stagesollicitatie",
       "bewijs": "Behaald doormiddel van:<br/>mijn sollicitatieproces voor een stage. Tijdens deze periode heb ik verschillende bedrijven benaderd, waarbij ik zorgvuldig mijn communicatie voorbereidde en onderhield. Dit omvatte het schrijven van professionele e-mails, het voeren van netwerkgesprekken en het opvolgen van mijn sollicitaties. Door deze aanpak heb ik niet alleen waardevolle contacten gelegd, maar ook mijn professionele vaardigheden verder ontwikkeld. <br/><br/> <img src='assets/12.3/stage.png'/>"
     },
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
@@ -730,22 +730,22 @@ const doelstellingen = {
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
       "type": ["alles"],
-      "status": "d",
-      "verified": "",
-      "project": "Stage",
+      "status": "ip",
+      "verified": "Jochen",
+      "project": "Stagesollicitatie, stage carroussel",
       "bewijs": "Behaald doormiddel van:<br/>mijn sollicitatieproces voor een stage. Tijdens deze periode heb ik verschillende bedrijven benaderd, waarbij ik zorgvuldig mijn communicatie voorbereidde en onderhield. Dit omvatte het schrijven van professionele e-mails, het voeren van netwerkgesprekken en het opvolgen van mijn sollicitaties. Door deze aanpak heb ik niet alleen waardevolle contacten gelegd, maar ook mijn professionele vaardigheden verder ontwikkeld. <br/><br/> <img src='assets/12.3/stage.png'/>"
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "English 1",
       "bewijs": "Behaald in het Opleidingsonderdeel \'English 1\' <a href='assets/credits/EN1.png' target='_blank'><img src='assets/credits/EN1.png' alt='English 1 Credit' /></a>"
     },
     "12.7 Luisteren, spreken, lezen en schrijven in het Frans of een niet-moedertaal": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "English 1",
       "bewijs": "Behaald in het Opleidingsonderdeel \'English 1\' <a href='assets/credits/EN1.png' target='_blank'><img src='assets/credits/EN1.png' alt='English 1 Credit' /></a>"
     }
@@ -755,7 +755,7 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "OVI, Kogeka, ",
       "bewijs": ""
     },
     "13.2 Aanpassen van bestaande documentatie": {
@@ -768,14 +768,14 @@ const doelstellingen = {
     "13.3 Opstellen van installatiehandleidingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project heb ik een installatiehandleiding opgesteld. Hierin hebben we stap voor stap uitgelegd hoe de applicatie geïnstalleerd en geconfigureerd moet worden. Dit heeft ons geholpen om de applicatie te documenteren en te ondersteunen bij het installatieproces.<br/><br/><a href='assets/13.3/Installatiehandeleiding Kogeka - hosting Combell.pdf' target='_blank'>Klik hier voor de handleiding te zien.</a>`
     },
     "13.4 Uitschrijven en aanpassen van testprocedures": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Java Advanced",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/JA.png' target='_blank'>hier</a>:<img src='assets/credits/JA.png' alt='Java Advanced Credit' />"
     }
@@ -790,9 +790,9 @@ const doelstellingen = {
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
-      "status": "d",
-      "verified": "",
-      "project": "KGK-001 - Kogeka",
+      "status": "ip",
+      "verified": "Jochen",
+      "project": "KGK-001 - Kogeka, OVI",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project hebben we de gebruikers ondersteund in het gebruik van de applicatie. We ook de It-afdeling van de school ondersteund in het beheer van de applicatie.<br/><br/>Hier ziet u een screenshot:<br/><img src='assets/14.2/kgk.png'/><br/><img src='assets/14.2/kgk2.png'/>`
     }
   },
@@ -824,7 +824,7 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "Tech talk",
       "bewijs": ""
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
@@ -845,8 +845,8 @@ const doelstellingen = {
     },
     "17.2 Beschrijven en rekening houden met privacy en GDPR regelgeving": {
       "type": ["alles"],
-      "status": "td",
-      "verified": "",
+      "status": "d",
+      "verified": "Jochen",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Voor het OVI project hebben we een GDPR Document opgesteld en hier in de app mee rekening gehouden. Hieronder vindt u het document terug: <a href='assets/17.2/GDPR - OVI.pdf' target='_blank'>Klik hier voor het document te bekijken.</a>`
     },
@@ -878,22 +878,22 @@ const doelstellingen = {
     "19.1 Planmatig en gedocumenteerd uitvoeren van een project met een duurtijd van meerdere maanden": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>Tijdens dit project hebben gebruik gemaakt van een Trello borden. Hierdoor hadden we een gedetailleerd projectplan met duidelijke mijlpalen en deadlines voor de sprints.<br/>Alle nodige informatie en beslissingen werden toegevoegd aan de Trello-Kaarten zodat er altijd een overzicht was. <br/><br/> <a href='assets/19.1/Trello bord.png' target='_blank'><img src='assets/19.1/Trello bord.png' alt='Trello Bord KGK-001 - Kogeka' /></a>` 
       
     },
     "19.2 Toepassen en documenteren van de Agile methodologie": {
       "type": ["alles"],
-      "status": "d",
-      "verified": "",
-      "project": "Requirements Analysis",
+      "status": "ip",
+      "verified": "Jochen",
+      "project": "Requirements Analysis, kogeka, pikassa",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>"
     },
     "19.3 Regelmatig rapporteren over projectvoortgang": {
       "type": ["alles"],
       "status": "ip",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Feedpulse gesprekken",
       "bewijs": ""
     }
@@ -901,54 +901,54 @@ const doelstellingen = {
   "20 PROJECTMATIG WERKEN - Je werkt zowel zelfstandig als in een multidisciplinair team mee aan opdrachten en projecten, en voert hierbij eenvoudige leidinggevende taken uit.": {
     "20.1 Uitvoeren van eenvoudige leidinggevende taken en herkennen van leiderschapsstijlen": {
       "type": ["alles"],
-      "status": "d",
+      "status": "ip",
       "verified": "",
-      "project": "Business Essentials",
+      "project": "Business Essentials, pikassa",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Business Essentials\' <a href='assets/credits/BE.png' target='_blank'><img src='assets/credits/BE.png' alt='Business Essentials Credit'/></a>"
     },
     "20.2 Zich correct opstellen in een conflictsituatie": {
       "type": ["alles"],
-      "status": "d",
+      "status": "ip",
       "verified": "",
       "project": "KGK-001 - Kogeka",
-      "bewijs": ""
+      "bewijs": "uitschrijven"
     },
     "20.3 Actief deelnemen aan en leiden van vergaderingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "TM-012 - Pikassa",
       "bewijs": `${makeAccordion(Pikassa)} Behaald doormiddel van:<br/>
-      Van 23 september 2024 tot 30 september 2024 heb ik samen met César en van 17 oktober 2024 tot 22 oktober 2024 heb ik samen met Tom de rol van scrum master vervuld voor het Pikkassa-project van de tweedejaarsstudenten. <br/> Gedurende deze weken hebben we de dagelijkse stand-ups en een demo meeting geleid, waarbij we de studenten vroegen naar hun dagelijkse voortgang en hun plannen voor de komende dagen. <br/> Aan het einde van de week hebben we ook de retrospective geleid. We hebben de studenten aangemoedigd om hun best te doen en ervoor gezorgd dat ze hun werk op tijd af hadden.`
+      Van 23 september 2024 tot 30 september 2024 heb ik samen met César en van 17 oktober 2024 tot 22 oktober 2024 heb ik samen met Tom de rol van scrum master vervuld voor het Pikassa-project van de tweedejaarsstudenten. <br/> Gedurende deze weken hebben we de dagelijkse stand-ups en een demo meeting geleid, waarbij we de studenten vroegen naar hun dagelijkse voortgang en hun plannen voor de komende dagen. <br/> Aan het einde van de week hebben we ook de retrospective geleid. We hebben de studenten aangemoedigd om hun best te doen en ervoor gezorgd dat ze hun werk op tijd af hadden.`
     }
   },
   "21 PROFESSIONEEL HANDELEN - Je evalueert je eigen functioneren en je stuurt dit bij.": {
     "21.1 Benoemen en werken aan persoonlijke sterktes en werkpunten": {
       "type": ["alles"],
-      "status": "d",
-      "verified": "",
+      "status": "ip",
+      "verified": "Jochen",
       "project": "POP",
       "bewijs": "nog toe te voegen"
     },
     "21.2 Evalueren en bijsturen van eigen handelen": {
       "type": ["alles"],
-      "status": "d",
-      "verified": "",
+      "status": "ip",
+      "verified": "Jochen",
       "project": "Feedpulse gesprekken",
-      "bewijs": ""
+      "bewijs": "uitschrijven"
     },
     "21.3 Opstellen en volgen van een formeel remediëringsplan": {
       "type": ["alles"],
       "status": "ip",
-      "verified": "",
-      "project": "POP",
+      "verified": "Jochen",
+      "project": "project ENT om doelstellingen te halen",
       "bewijs": ""
     },
     "21.4 Tonen van een permanente IT security awareness tijdens het werken": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "git ignore",
       "bewijs": ""
     }
   },
@@ -964,14 +964,14 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "internationale dagen?, bip?",
+      "project": "internationale dagen?",
       "bewijs": ""
     },
     "22.3 Faciliteren van samenwerkingen met andere culturen": {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "internationale dagen?, bip?",
+      "project": "internationale dagen?",
       "bewijs": ""
     }
   },
@@ -987,7 +987,7 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "KGK-001 - Kogeka",
+      "project": "KGK-001 - Kogeka, retro van pikassa",
       "bewijs": ""
     }
   },
@@ -995,14 +995,14 @@ const doelstellingen = {
     "24.1 Zelfstandig bijkomende opleidingen kiezen en succesvol afleggen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "Basisopleiding Odoo",
       "bewijs": "Dit heb ik behaald bij de het volgen van de <a href='assets/24.1/2023-03-02 Certificaat ODOO.pdf' target='_blank'>Basisopleiding Odoo</a><iframe src='assets/24.1/2023-03-02 Certificaat ODOO.pdf'/ class='w-full h-full flex flex-grow' title='Basisopleiding Odoo'>"
     },
     "24.2 Proactief externe deskundigheid inroepen wanneer nodig": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Voor het project hebben we externe deskundigen ingeschakeld om ons te assisteren bij specifieke problemen die we niet zelf konden oplossen. <br/><img src='assets/24.2/Bericht_SME.png' alt='Externe deskundigheid'/></a>`
     }
