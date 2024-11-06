@@ -210,7 +210,7 @@ const doelstellingen = {
     "6.1 Gebruik van Git": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Wij hebben gebruik gemaakt van Git voor het bijhouden van onze code. Dit heeft ons geholpen op verschillende manieren: 
       <br/>
@@ -247,7 +247,7 @@ const doelstellingen = {
     "6.5 Opleveren van een artifact": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>
       Bij de oplevering van ons project. Is het APK-bestand naar de klant gestuurd. De app (het APK-bestand) is nu beschikbaar via een link, de klant kan de apk downloaden en installeren op hun toestel. Bovendien hebben we onze beschikbaarheid aangeboden om ondersteuning te bieden voor eventuele problemen of vragen die ze zouden kunnen hebben bij het gebruik van de app tot eind juni 2024. 
