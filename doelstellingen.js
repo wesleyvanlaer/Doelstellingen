@@ -192,10 +192,11 @@ const doelstellingen = {
   "5 ONTWERPEN - Je toetst je oplossingen aan de vereisten van de klant doorheen het ontwerp- en ontwikkelproces.": {
     "5.1 Deelnemen aan en leiden van sprint reviews en demo meetings": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "Project 2de jaars?",
-      "bewijs": ""
+      "project": "TM-012 - Pikassa",
+      "bewijs": `${makeAccordion(Pikassa)} Behaald doormiddel van:<br/>
+      Van 23 september 2024 tot 30 september 2024 heb ik samen met César en van 17 oktober 2024 tot 22 oktober 2024 heb ik samen met Tom de rol van scrum master vervuld voor het Pikkassa-project van de tweedejaarsstudenten. <br/> Gedurende deze weken hebben we de dagelijkse stand-ups en een demo meeting geleid, waarbij we de studenten vroegen naar hun dagelijkse voortgang en hun plannen voor de komende dagen. <br/> Aan het einde van de week hebben we ook de retrospective geleid. We hebben de studenten aangemoedigd om hun best te doen en ervoor gezorgd dat ze hun werk op tijd af hadden.`
     },
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
@@ -211,7 +212,16 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "OVI-001 - Voedingsdagboek",
-      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Wij hebben gebruik gemaakt van Git voor het bijhouden van onze code. Dit heeft ons geholpen om efficiënt samen te werken en om de code te beheren. We hebben gebruik gemaakt van branches om aan verschillende features te werken en deze later samen te voegen. Ook hebben we gebruik gemaakt van pull requests om de code te reviewen en te testen voordat deze gemerged werd met de main branch.<br/><br/>Hier ziet u een screenshot van onze Github repository:<br/><img src='assets/6.1/ovi.png'/>`
+      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Wij hebben gebruik gemaakt van Git voor het bijhouden van onze code. Dit heeft ons geholpen op verschillende manieren: 
+      <br/>
+      <ul>
+        <li><strong>Versiebeheer:</strong> Met Git kunnen we gemakkelijk verschillende versies van onze code bijhouden. Dit betekent dat we altijd kunnen teruggaan naar een vorige versie als er iets misgaat.</li>
+        <li><strong>Samenwerking:</strong> Git maakt het eenvoudig voor meerdere ontwikkelaars om tegelijkertijd aan hetzelfde project te werken. We kunnen allemaal aan onze eigen takken werken en later onze wijzigingen samenvoegen.</li>
+        <li><strong>Branching en Merging:</strong> Met branches kunnen we nieuwe functies of bugfixes ontwikkelen zonder de hoofdcode te verstoren. Zodra de wijzigingen klaar zijn, kunnen we ze eenvoudig samenvoegen met de hoofdbranch.</li>
+        <li><strong>Geschiedenis:</strong> Git houdt een gedetailleerde geschiedenis bij van alle wijzigingen, inclusief wie wat heeft veranderd en waarom. Dit helpt ons om problemen snel te identificeren en op te lossen.</li>
+        <li><strong>Back-up:</strong> Omdat Git een gedistribueerd versiebeheersysteem is, heeft elke ontwikkelaar een volledige kopie van de repository. Dit betekent dat we altijd een back-up hebben van onze code.</li>
+    </ul>
+    <br/>We hebben Git gebruikt in combinatie met Github, een online platform voor het hosten van Git-repositories. Hier hebben we onze code opgeslagen en gedeeld met andere teamleden. Ook hebben we gebruik gemaakt van pull requests om de code te reviewen en te testen voordat deze gemerged werd met de main branch.<br/><br/>Hier ziet u een screenshot van onze Github repository:<br/><img src='assets/6.1/ovi.png'/>`
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
@@ -239,7 +249,11 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "OVI-001 - Voedingsdagboek",
-      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>De oplevering van ons project. De app is nu beschikbaar via een link kan de klant de apk downloaden en installeren op hun toestel.`
+      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>
+      Bij de oplevering van ons project. Is het APK-bestand naar de klant gestuurd. De app (het APK-bestand) is nu beschikbaar via een link, de klant kan de apk downloaden en installeren op hun toestel. Bovendien hebben we onze beschikbaarheid aangeboden om ondersteuning te bieden voor eventuele problemen of vragen die ze zouden kunnen hebben bij het gebruik van de app tot eind juni 2024. 
+      <br/><br/>
+      Hieronder zie de mail die naar de klant is gestuurd:
+      <img src='assets/6.5/ovi.png' />`
     },
     "6.6 Integreren van dashboards in bestaande applicaties": {
       "type": ["ai"],
@@ -889,8 +903,9 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "OVI-001 - Voedingsdagboek",
-      "bewijs": ""
+      "project": "TM-012 - Pikassa",
+      "bewijs": `${makeAccordion(Pikassa)} Behaald doormiddel van:<br/>
+      Van 23 september 2024 tot 30 september 2024 heb ik samen met César en van 17 oktober 2024 tot 22 oktober 2024 heb ik samen met Tom de rol van scrum master vervuld voor het Pikkassa-project van de tweedejaarsstudenten. <br/> Gedurende deze weken hebben we de dagelijkse stand-ups en een demo meeting geleid, waarbij we de studenten vroegen naar hun dagelijkse voortgang en hun plannen voor de komende dagen. <br/> Aan het einde van de week hebben we ook de retrospective geleid. We hebben de studenten aangemoedigd om hun best te doen en ervoor gezorgd dat ze hun werk op tijd af hadden.`
     }
   },
   "21 PROFESSIONEEL HANDELEN - Je evalueert je eigen functioneren en je stuurt dit bij.": {

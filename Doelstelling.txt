@@ -1,0 +1,12 @@
+Gesprek met Bram Verbruggen op 5/11 
+
+6.2 - Portfolio automatische van github naar cloudflare
+6.3 - ok
+6.4 - Unite testing, Niet enkel van syntax maar ook echt functie.
+8.1 - na vragen bij app SME
+9.1 - ok
+9.2 - ok
+9.3 - ok 
+9.6 - werking uitleggen van dns vergelijken met dns sec en hier toepassing in project uitleggen
+10.2 - Laravel auth van kgk project, owasp top 10 ( BAC, CF, Inj, SL & MF )
+21.4 - Password manager, 2FA beide uitleggen waarom ik het belangrijk vind.
