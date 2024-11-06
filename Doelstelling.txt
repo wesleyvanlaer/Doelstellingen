@@ -8,5 +8,13 @@ Gesprek met Bram Verbruggen op 5/11
 9.2 - ok
 9.3 - ok 
 9.6 - werking uitleggen van dns vergelijken met dns sec en hier toepassing in project uitleggen
-10.2 - Laravel auth van kgk project, owasp top 10 ( BAC, CF, Inj, SL & MF )
+10.2 - Laravel auth van kgk project, owasp top 10 ( BAC, CF, Inj, SL & MF ) (https://owasp.org/www-project-top-ten/) 
 21.4 - Password manager, 2FA beide uitleggen waarom ik het belangrijk vind.
+
+____________________________________________________________________________________________________________________
+
+Gesprek met Bram Heyns op 6/11
+
+6.1 - ok
+6.5 - link naar artifect nog toevoegen (ondertussen toegevoegd)
+

@@ -123,7 +123,16 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "OVI-001 - Voedingsdagboek",
-      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/> Voor het Voedingsdagboek project hebben we de totaaloplossing opgedeeld in kleinere items. We hebben de functionaliteiten van de applicatie opgedeeld in verschillende schermen en features. Zie de trello board voor een overzicht van de verschillende features:<br/><a href='https://trello.com/b/gDnF7YMa/ovi-001-voedingsdagboek' target='_blank'>https://trello.com/b/gDnF7YMa/ovi-001-voedingsdagboek</a>`
+      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/> 
+      Bij het ontwikkelen van de Voedingsdagboek App hebben we de conceptuele totaaloplossing opgedeeld in kleinere, beheersbare items of deeloplossingen. Deze aanpak stelde ons in staat om gefocust te blijven op specifieke onderdelen van de app, wat de efficiëntie en kwaliteit van het eindproduct ten goede kwam.
+      <br/><br/>
+      We begonnen met het identificeren van de kernfunctionaliteiten die essentieel waren voor de app, zoals gebruikersauthenticatie, het bijhouden van een voedingslogboek, en het monitoren van beweging. Elk van deze functionaliteiten werd vervolgens verder opgesplitst in kleinere taken. Bijvoorbeeld, voor de gebruikersauthenticatie hebben we subtaken gedefinieerd zoals het ontwerpen van het inlogscherm, het implementeren van wachtwoordherstel.
+      <br/><br/>
+      Door deze methodische aanpak konden we niet alleen de voortgang beter monitoren, maar ook sneller inspelen op eventuele problemen of wijzigingen in de eisen van de klant. Bovendien maakte deze opdeling het mogelijk om verschillende teamleden parallel aan verschillende onderdelen van het project te laten werken, wat de algehele productiviteit verhoogde.
+      <br/><br/>
+      Deze strategie zorgde ervoor dat we een robuuste en gebruiksvriendelijke app konden leveren die voldeed aan de verwachtingen van de klant en de behoeften van de eindgebruikers.
+      <br/><br/>
+      Zie het trello board voor een overzicht van de verschillende features:<br/><a href='https://trello.com/b/gDnF7YMa/ovi-001-voedingsdagboek' target='_blank'>https://trello.com/b/gDnF7YMa/ovi-001-voedingsdagboek</a>`
     },
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
       "type": ["alles"],
@@ -250,6 +259,7 @@ const doelstellingen = {
       "verified": "Bram",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>
+      <a href='assets/6.5/artifact - ovi.apk'>Hier is de link naar de artifact</a><br/>
       Bij de oplevering van ons project. Is het APK-bestand naar de klant gestuurd. De app (het APK-bestand) is nu beschikbaar via een link, de klant kan de apk downloaden en installeren op hun toestel. Bovendien hebben we onze beschikbaarheid aangeboden om ondersteuning te bieden voor eventuele problemen of vragen die ze zouden kunnen hebben bij het gebruik van de app tot eind juni 2024. 
       <br/><br/>
       Hieronder zie de mail die naar de klant is gestuurd:
