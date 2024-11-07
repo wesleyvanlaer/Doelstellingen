@@ -3,14 +3,14 @@ const doelstellingen = {
     "1.1 Beschrijven van relevante bedrijfseconomische contexten vanuit verschillende invalshoeken.": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
     "1.2 Opstellen van een business model canvas": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
@@ -33,14 +33,14 @@ const doelstellingen = {
     "2.1 Afleiden van functionele en niet-functionele eisen uit een opdracht en interview": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"
     },
     "2.2 Functionele en niet-functionele eisen verwerken en rangschikken als startpunt van een (Agile) project": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"
     }
@@ -56,7 +56,7 @@ const doelstellingen = {
     "3.2 Analyseren en beoordelen van (semi-)out-of-the-box (deel)oplossingen voor functionaliteiten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"
     },
@@ -77,7 +77,7 @@ const doelstellingen = {
     "3.5 Selecteren van de meest geschikte datavisualisaties voor beheer en beslissingsondersteuning": {
       "type": ["app", "ai", "iot"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Data Visualisatie",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/DV.png' target='_blank'>hier</a>:<img src='assets/credits/DV.png' alt='Data Visualisatie Credit' />"
     },
@@ -139,14 +139,14 @@ const doelstellingen = {
     "4.3 Ontwerpen van een proof-of-concept met aandacht voor een zo accuraat mogelijke reflectie van de reële oplossing": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />"
     },
     "4.4 Opstellen van de relevante UML diagramma ter ondersteuning van ontwikkeling en testing": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>"
     },
@@ -370,7 +370,7 @@ const doelstellingen = {
     "7.12 Opbouwen van dashboards en datavisualisaties ter ondersteuning van beslissingen en management": {
       "type": ["app", "ai", "iot"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Data Visualisatie",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/DV.png' target='_blank'>hier</a>:<img src='assets/credits/DV.png' alt='Data Visualisatie Credit' />"
     },
@@ -724,7 +724,7 @@ const doelstellingen = {
     "12.4 Interviewen van een klant of opdrachtgever en dit documenteren": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>"
     },
@@ -807,14 +807,14 @@ const doelstellingen = {
     "15.2 Snel en effectief reageren op elke situatie met kansen en uitdagingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Business Essentials\' <a href='assets/credits/BE.png' target='_blank'><img src='assets/credits/BE.png' alt='Business Essentials Credit'/></a>"
     },
     "15.3 Als intrapreneur verantwoordelijkheid en eigenaarschap opnemen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Business Essentials\' <a href='assets/credits/BE.png' target='_blank'><img src='assets/credits/BE.png' alt='Business Essentials Credit'/></a>"
     }
@@ -869,7 +869,7 @@ const doelstellingen = {
     "18.2 Bewust rekening houden met het niveau van IT kennis van een klant": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Requirements Analysis",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>"
     }
