@@ -309,7 +309,9 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "KGK-001 - Kogeka",
-      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>In het Kogeka-project hebben we gebruik gemaakt van Laravel (Versie 10) als full-stack framework. Laravel is een uitgebreid PHP-framework met tal van mogelijkheden, waaronder een ingebouwde ORM en een geïntegreerd systeem voor authenticatie. Deze functies maken het mogelijk om snel en efficiënt full-stack webapplicaties te ontwikkelen. Dankzij de MVC-structuur van Laravel blijft de code bovendien goed georganiseerd en eenvoudig te onderhouden.`
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>In het Kogeka-project hebben we gebruik gemaakt van Laravel (Versie 10) als full-stack framework. Laravel is een uitgebreid PHP-framework met tal van mogelijkheden, waaronder een ingebouwde ORM en een geïntegreerd systeem voor authenticatie. Deze functies maken het mogelijk om snel en efficiënt full-stack webapplicaties te ontwikkelen. Dankzij de MVC-structuur van Laravel blijft de code bovendien goed georganiseerd en eenvoudig te onderhouden.
+      Hierbij een korte demo video van de applicatie:<br/>
+      <video width='560' height='315' src='assets/7.3/Demo video.mp4' controls></video>`
     },
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
@@ -330,7 +332,9 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "OVI-001 - Voedingsdagboek",
-      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Voor het project hebben Tom en ik een cross-platform mobile applicatie gemaakt met React Native en het Expo Framework.`
+      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>VVoor het project OVI-001 - Voedingsdagboek hebben Tom en ik een cross-platform mobiele applicatie ontwikkeld met React Native en het Expo Framework.<br/>React Native, ontwikkeld door Facebook in 2015, maakt het mogelijk om met één codebase apps te bouwen voor Android en iOS, met de uitstraling en prestaties van native apps. Het vereenvoudigt en versnelt het ontwikkelproces.<br/>Expo is een open-source platform dat React Native ondersteunt bij het ontwikkelen van universele apps. Het biedt tools voor snelle ontwikkeling en toegang tot native functies zonder complexe configuraties.<br/>Deze technologieën stelden ons in staat een gebruiksvriendelijke en veelzijdige app te maken.
+      <br/>Hierbij een korte demo video van de applicatie:<br/>
+      <video width='560' height='315' src='assets/7.6/demo-ovi.mp4' controls></video>`
     },
     "7.7 Toevoegen van augmented reality functionaliteiten aan applicaties": {
       "type": ["app"],
@@ -550,7 +554,28 @@ const doelstellingen = {
       "status": "ip",
       "verified": "",
       "project": "Portfolio",
-      "bewijs": ""
+      "bewijs":  `Behaald doormiddel van:
+      <h1>Wat is DNS?</h1>
+    <p>DNS (Domain Name System) is als een telefoonboek voor het internet. Stel je voor dat je een website wilt bezoeken, zoals <code>example.com</code>. Je computer weet niet direct waar deze website zich bevindt, dus vraagt hij het aan DNS. DNS vertaalt de naam <code>example.com</code> naar een IP-adres, zoals <code>192.0.2.1</code>, zodat je computer weet waar hij de website kan vinden.</p>
+
+    <h1>Wat is DNSSEC?</h1>
+    <p>DNSSEC (Domain Name System Security Extensions) is een beveiligingslaag bovenop DNS. Het zorgt ervoor dat de antwoorden die je krijgt van DNS niet zijn vervalst. Dit doet DNSSEC door digitale handtekeningen toe te voegen aan de DNS-gegevens. Deze handtekeningen kunnen worden gecontroleerd om te bevestigen dat de gegevens echt zijn en niet zijn veranderd.</p>
+
+    <h1>Verschillen tussen DNS en DNSSEC</h1>
+    <h2>Beveiliging</h2>
+    <ul>
+        <li><strong>DNS:</strong> Standaard DNS heeft geen ingebouwde beveiliging. Dit betekent dat iemand de antwoorden kan vervalsen en je naar een verkeerde website kan sturen.</li>
+        <li><strong>DNSSEC:</strong> Voegt beveiliging toe door digitale handtekeningen te gebruiken. Dit zorgt ervoor dat je zeker weet dat de antwoorden die je krijgt echt zijn.</li>
+    </ul>
+
+    <h2>Werking</h2>
+    <ul>
+        <li><strong>DNS:</strong> Werkt door simpelweg domeinnamen om te zetten in IP-adressen zonder enige vorm van controle.</li>
+        <li><strong>DNSSEC:</strong> Gebruikt een systeem van sleutels en handtekeningen om te controleren of de DNS-gegevens niet zijn veranderd.</li>
+    </ul>
+    Ook heb ik dit toegepast op mijn eigen portfolio website. Hier heb ik DNSSEC geactiveerd om extra beveiliging toe te voegen aan de DNS-records van mijn domeinnaam. Dit zorgt ervoor dat de DNS-antwoorden die mijn website ontvangt echt zijn en niet zijn vervalst. Hierdoor wordt de veiligheid en integriteit van mijn website verhoogd.
+    Hieronder zie je een screenshot van de DNSSEC instellingen van mijn domeinnaam:
+    <br/><img src='assets/9.6/dnssec.png'/>`
     },
     "9.7 Programmatie en configuratie van smart environment componenten en protocollen": {
       "type": ["iot"],
@@ -709,10 +734,10 @@ const doelstellingen = {
     },
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
-      "status": "d",
+      "status": "td",
       "verified": "",
-      "project": "Requirements Analysis",
-      "bewijs": "Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>"
+      "project": "Tech Talk",
+      "bewijs": ""
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
@@ -753,10 +778,10 @@ const doelstellingen = {
   "13 COMMUNICEREN - Je onderhoudt bestaande documentatie en stelt nieuwe documentatie op voor oplossingen en systemen, met aandacht voor het passende niveau van detail.": {
     "13.1 Documenteren van eigen gemaakte oplossingen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "OVI, Kogeka, ",
-      "bewijs": ""
+      "project": "KGK-001 - Kogeka",
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project heb ik een installatiehandleiding opgesteld. Hierin hebben we stap voor stap uitgelegd hoe de applicatie geïnstalleerd en geconfigureerd moet worden. Dit heeft ons geholpen om de applicatie te documenteren en te ondersteunen bij het installatieproces.<br/><br/><a href='assets/13.3/Installatiehandeleiding Kogeka - hosting Combell.pdf' target='_blank'>Klik hier voor de handleiding te zien.</a>`
     },
     "13.2 Aanpassen van bestaande documentatie": {
       "type": ["alles"],
@@ -799,10 +824,10 @@ const doelstellingen = {
   "15 ONDERNEMEN - Je bent ondernemend, ook als deel van een grotere organisatie.": {
     "15.1 Proactief eigen ideeën aanbrengen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Business Essentials",
+      "bewijs": "Voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
     "15.2 Snel en effectief reageren op elke situatie met kansen en uitdagingen": {
       "type": ["alles"],
@@ -841,7 +866,8 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Vervang Opdracht ITIL",
-      "bewijs": `${makeAccordion(KGK)} <a href='assets/17.1/ITIL.pdf' target='_blank'>Klik hier voor het document te bekijken.</a>`
+      "bewijs": `${makeAccordion(KGK)} <a href='assets/17.1/ITIL vervang opdracht 1.1.pdf' target='_blank'>Klik hier voor het document te bekijken.</a>
+      <br/> <a href='assets/17.1/mail-marleen.png' target='_blank'>Klik hier voor de afbeelding van de mail groter te bekijken.</a>`
     },
     "17.2 Beschrijven en rekening houden met privacy en GDPR regelgeving": {
       "type": ["alles"],
@@ -863,8 +889,8 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "d",
       "verified": "",
-      "project": "Requirements Analysis",
-      "bewijs": "Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>"
+      "project": "Business Essentials",
+      "bewijs": "Voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
     "18.2 Bewust rekening houden met het niveau van IT kennis van een klant": {
       "type": ["alles"],

@@ -70,24 +70,20 @@ const KGK = {
 const Pikassa = {
   title: "Thomas More - Pikassa",
   text: `            
-  <div class=“flex flex-col py-2”> 
-    <h2 class=“text-lg font-bold”>Opdrachtgever</h2> 
-    <p><a href=“https://www.thomasmore.be/” target=“_blank”>Thomas More</a></p> 
+  <div class='flex flex-col py-2'> 
+    <h2 class='text-lg font-bold'>Opdrachtgever</h2> 
+    <p><a href='https://www.thomasmore.be/' target='_blank'>Thomas More</a></p> 
   </div> 
-  <div class=“flex flex-col py-2”> 
-    <h2 class=“text-lg font-bold”>Projectomschrijving</h2> 
+  <div class='flex flex-col py-2'> 
+    <h2 class='text-lg font-bold'>Projectomschrijving</h2> 
     <p>Pikkassa is een innovatief kassasysteem, speciaal ontworpen voor mensen met een mentale beperking. Het wordt op onze school gebruikt om hen te ondersteunen bij verkoopactiviteiten.<br><br>Op bepaalde dagen komen scholen, zoals BUSO-scholen, waar leerlingen met een mentale beperking onderwijs volgen, naar onze school om hun zelfgemaakte producten te verkopen. Dit kunnen bijvoorbeeld kaartjes, hangertjes en andere creatieve items zijn.<br><br>Pikkassa stelt deze leerlingen in staat om zelfstandig en eenvoudig hun verkoop te beheren, door hen te helpen met bijvoorbeeld het verwerken van transacties.<br><br>Het systeem maakt deel uit van het startersproject voor tweedejaarsstudenten van DI in het schooljaar 2024-2025. Deze studenten zijn verantwoordelijk voor de ontwikkeling, het onderhoud en de optimalisatie van Pikkassa.<br><br>Ze leren hierbij niet alleen technische vaardigheden zoals programmeren en systeembeheer, maar dragen ook bij aan een belangrijk sociaal doel: het creëren van een veilige, toegankelijke omgeving waarin mensen met een mentale beperking hun vaardigheden kunnen ontwikkelen.<br><br>Het project bevordert zowel technische expertise als maatschappelijke inclusiviteit en zelfstandigheid voor de deelnemende leerlingen.</p> 
   </div> 
-  <div class=“flex flex-col py-2”> 
-    <h2 class=“text-lg font-bold”>Projectduur</h2> 
+  <div class='flex flex-col py-2'> 
+    <h2 class='text-lg font-bold'>Projectduur</h2> 
     <p>September 2024 → November 2024</p> 
   </div> 
-  <div class=“flex flex-col py-2”> 
-  <h2 class=“text-lg font-bold”>Links</h2> 
-    <p> Github Repository: <a href=“https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel” target=“_blank”>https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel</a> <br> Jira: <a href=“https://student-team-ggp2srsdpoge.atlassian.net/jira/software/projects/WW/boards/4” target=“_blank”>https://student-team-ggp2srsdpoge.atlassian.net/jira/software/projects/WW/boards/4</a> </p> 
-  </div>
-
-
-
-  `,
+  <div class='flex flex-col py-2'> 
+  <h2 class='text-lg font-bold'>Links</h2> 
+    <p> Github Repository: <a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel' target='_blank'>https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel</a> <br> Jira: <a href='https://student-team-ggp2srsdpoge.atlassian.net/jira/software/projects/WW/boards/4' target='_blank'>https://student-team-ggp2srsdpoge.atlassian.net/jira/software/projects/WW/boards/4</a> </p> 
+  </div>`,
 };
