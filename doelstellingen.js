@@ -825,7 +825,7 @@ const doelstellingen = {
     "15.1 Proactief eigen ideeën aanbrengen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
@@ -888,7 +888,7 @@ const doelstellingen = {
     "18.1 Pitchen van een idee voor klanten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/BE.png' target='_blank'>hier</a>:<img src='assets/credits/BE.png' alt='Business Essentials Credit' />"
     },
