@@ -16,17 +16,17 @@ const doelstellingen = {
     },
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "BPMN",
-      "bewijs": ""
+      "bewijs": "Behaald door:<br/>Het in kaart brengen van het transportproces binnen het 29ste Bataljon te kazerne Grobbendonk in ons BPMN-model. Dit hebben we op 10/12/2024 gepresenteerd aan onze coach Kathleen."
     },
     "1.4 Optimaliseren van businessprocessen": {
       "type": ["app", "ai"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "BPMN",
-      "bewijs": ""
+      "bewijs": "Behaald door:<br/>Het in kaart brengen van het transportproces binnen het 29ste Bataljon te kazerne Grobbendonk in ons BPMN-model. Dit hebben we op 10/12/2024 gepresenteerd aan onze coach Kathleen."
     }
   },
   "2 ANALYSEREN - Je identificeert de functionele en niet-functionele eisen van een klant en vertaalt deze naar heldere documenten en begrijpbare schema's.": {
@@ -315,10 +315,10 @@ const doelstellingen = {
     },
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "BPMN",
-      "bewijs": ""
+      "bewijs": "Behaald door:<br/>Het in kaart brengen van het transportproces binnen het 29ste Bataljon te kazerne Grobbendonk in ons BPMN-model. Dit hebben we op 10/12/2024 gepresenteerd aan onze coach Kathleen."
     },
     "7.5 Toepassen van machine learning algoritmen": {
       "type": ["app", "ai"],
@@ -734,7 +734,7 @@ const doelstellingen = {
     },
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
       "project": "Tech Talk",
       "bewijs": ""
@@ -808,17 +808,20 @@ const doelstellingen = {
   "14 COMMUNICEREN - Je leidt personen zowel individueel als in groep op en ondersteunt hen.": {
     "14.1 Overbrengen van IT-kennis aan een groep personen": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
       "project": "Tech Talk",
       "bewijs": ""
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
       "project": "KGK-001 - Kogeka, OVI",
-      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project hebben we de gebruikers ondersteund in het gebruik van de applicatie. We ook de It-afdeling van de school ondersteund in het beheer van de applicatie.<br/><br/>Hier ziet u een screenshot:<br/><img src='assets/14.2/kgk.png'/><br/><img src='assets/14.2/kgk2.png'/>`
+      "bewijs": `${makeAccordion(KGK)} ${makeAccordion(OVI)} Behaald doormiddel van:<br/> Voor het Kogeka-project hebben we de gebruikers ondersteund in het gebruik van de applicatie. We ook de It-afdeling van de school ondersteund in het beheer van de applicatie.<br/><br/>Hier ziet u een screenshot:<br/><img src='assets/14.2/kgk.png'/><br/><img src='assets/14.2/kgk2.png'/>
+      <br/>
+      Voor het OVI-project heb ik de klant begeleid bij het gebruik van de voedingsdagboek-app. Ik heb de klant ondersteund in het begrijpen van de verschillende functies van de app, zoals het invoeren van maaltijden en het interpreteren van de dagoverzichten. <br/>
+      Daarnaast heb ik geholpen met het oplossen van eventuele vragen en technische problemen, zodat de klant de app effectief kon gebruiken om zijn of haar voedingsgewoonten bij te houden.`
     }
   },
   "15 ONDERNEMEN - Je bent ondernemend, ook als deel van een grotere organisatie.": {
@@ -847,14 +850,14 @@ const doelstellingen = {
   "16 ONDERNEMEN - Je gebruikt innovatieve oplossingen en staat open voor vernieuwende denkwijzen om blijvend te voldoen aan de veranderende behoeften van het bedrijfsleven en de samenleving.": {
     "16.1 Proactief zoeken en consulteren van de state-of-the-art binnen opdrachten en projecten": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
       "project": "Tech talk",
       "bewijs": ""
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
       "project": "Tech Talk",
       "bewijs": ""
@@ -911,25 +914,28 @@ const doelstellingen = {
     },
     "19.2 Toepassen en documenteren van de Agile methodologie": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
-      "project": "Requirements Analysis, kogeka, pikassa",
-      "bewijs": "Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>"
+      "project": "Requirements Analysis, KGK-001 - Kogeka, TM-012 PiKassa",
+      "bewijs": `${makeAccordion(KGK)} ${makeAccordion(OVI)} Behaald in het Opleidingsonderdeel \'Requirements Analysis\' <a href='assets/credits/RA.png' target='_blank'><img src='assets/credits/RA.png' alt='Requirements Analysis Credit' /></a>
+      <br/>Behaald doormiddel van:<br/>
+      Voor het Kogeka-project & Pikassa hebben we de Agile-methodologie toegepast. We hebben gewerkt in sprints van 1 week en hadden dagelijkse stand-ups om de voortgang te bespreken. Aan het einde van elke sprint hadden we een demo meeting waarin we de resultaten van de sprint presenteerden aan de klant. Ook hadden we een retrospective meeting waarin we de sprint evalueerden en verbeterpunten bespraken.`
     },
     "19.3 Regelmatig rapporteren over projectvoortgang": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
       "project": "Feedpulse gesprekken",
-      "bewijs": ""
+      "bewijs": `Om de twee weken hadden we een meeting met een coach om de voortgang van projecten en de volgende stappen te bespreken. We kregen feedback, bespraken uitdagingen en planden concrete acties. De coach hielp ons reflecteren en verbeteren, zowel professioneel als persoonlijk. Hieronder zie je een foto van mijn Feelpulse-evaluaties van het afgelopen jaar, die mijn voortgang in welzijn en prestaties laten zien.
+      <br/><br/> <a href='assets/19.3/Feedpulse.png' target='_blank'><img src='assets/19.3/Feedpulse.png' alt='Feedpulse' /></a>` 
     }
   },
   "20 PROJECTMATIG WERKEN - Je werkt zowel zelfstandig als in een multidisciplinair team mee aan opdrachten en projecten, en voert hierbij eenvoudige leidinggevende taken uit.": {
     "20.1 Uitvoeren van eenvoudige leidinggevende taken en herkennen van leiderschapsstijlen": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "Business Essentials, pikassa",
+      "project": "Business Essentials",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Business Essentials\' <a href='assets/credits/BE.png' target='_blank'><img src='assets/credits/BE.png' alt='Business Essentials Credit'/></a>"
     },
     "20.2 Zich correct opstellen in een conflictsituatie": {
@@ -958,10 +964,11 @@ const doelstellingen = {
     },
     "21.2 Evalueren en bijsturen van eigen handelen": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
       "project": "Feedpulse gesprekken",
-      "bewijs": "uitschrijven"
+      "bewijs": `Om de twee weken hadden we een meeting met een coach om de voortgang van projecten en de volgende stappen te bespreken. We kregen feedback, bespraken uitdagingen en planden concrete acties. De coach hielp ons reflecteren en verbeteren, zowel professioneel als persoonlijk. Hieronder zie je een foto van mijn Feelpulse-evaluaties van het afgelopen jaar, die mijn voortgang in welzijn en prestaties laten zien.
+      <br/><br/> <a href='assets/19.3/Feedpulse.png' target='_blank'><img src='assets/19.3/Feedpulse.png' alt='Feedpulse' /></a>` 
     },
     "21.3 Opstellen en volgen van een formeel remediëringsplan": {
       "type": ["alles"],
