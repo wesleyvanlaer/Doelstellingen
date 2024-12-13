@@ -345,9 +345,9 @@ const doelstellingen = {
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "TMEnt-006",
       "bewijs": `${makeAccordion(ENT)} Bedhaald doormiddel van het gebruik van application state: Het consistent beheren van data, zoals gebruikersinformatie en instellingen, tussen verschillende schermen in een applicatie. Application state maakt het mogelijk om wijzigingen in real-time door te voeren, waardoor gebruikers altijd actuele informatie zien, ongeacht waar ze zich in de app bevinden. Dit resulteert in een verbeterde gebruikerservaring dankzij hogere prestaties en minder vertragingen. Bovendien zorgt het gebruik van application state voor een betrouwbare werking van de applicatie, doordat data centraal wordt beheerd en gedeeld, wat essentieel is voor dynamische en interactieve toepassingen.
       <br/><br/>
       hieronder een screenshot van de code:<br/><img src='assets/7.8/state.png'/>`
