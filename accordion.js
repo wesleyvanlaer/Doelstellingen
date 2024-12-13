@@ -87,3 +87,21 @@ const Pikassa = {
     <p> Github Repository: <a href='https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel' target='_blank'>https://github.com/Thomas-More-Digital-Innovation/2425-TM-012-Eenvoudig-kassasysteem-voor-de-Wagenwinkel</a> <br> Jira: <a href='https://student-team-ggp2srsdpoge.atlassian.net/jira/software/projects/WW/boards/4' target='_blank'>https://student-team-ggp2srsdpoge.atlassian.net/jira/software/projects/WW/boards/4</a> </p> 
   </div>`,
 };
+
+const ENT = {
+  "title": "Project Info - TMEnt-006 - Visualisatie Integratie applicaties modbus etc..",
+  "text": `
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Opdrachtgever</h2>
+      <p><a href='https://www.thomasmore.be/' target='_blank'>Thomas More</a></p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Projectomschrijving</h2>
+      <p>Het project gebruikt een Raspberry Pi 3 Model met een Modbus-USB-adapter om gegevens van warmtepompen en energiemeters uit te lezen via het Modbus-protocol. De verzamelde gegevens, zoals temperatuur en stroomverbruik, worden opgeslagen in een database.<br/><br/>Voor de visualisatie wordt een next.js opgezet dat data in en uit de database haalt via een api en in real-time inzicht biedt in de prestaties. Voor het de dashboard online beschikbaar te maken zal vercel gebruikt worden als hosting.</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Projectduur</h2>
+      <p>November 2024 &rarr; December 2024</p>
+    </div>
+  `
+};
