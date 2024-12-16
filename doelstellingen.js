@@ -17,14 +17,14 @@ const doelstellingen = {
     "1.3 Beschrijven en modelleren van businessprocessen": {
       "type": ["alles", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "BPMN",
       "bewijs": "Behaald door:<br/>Het in kaart brengen van het transportproces binnen het 29ste Bataljon te kazerne Grobbendonk in ons BPMN-model. Dit hebben we op 10/12/2024 gepresenteerd aan onze coach Kathleen."
     },
     "1.4 Optimaliseren van businessprocessen": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "BPMN",
       "bewijs": "Behaald door:<br/>Het in kaart brengen van het transportproces binnen het 29ste Bataljon te kazerne Grobbendonk in ons BPMN-model. Dit hebben we op 10/12/2024 gepresenteerd aan onze coach Kathleen."
     }
@@ -316,7 +316,7 @@ const doelstellingen = {
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "BPMN",
       "bewijs": "Behaald door:<br/>Het in kaart brengen van het transportproces binnen het 29ste Bataljon te kazerne Grobbendonk in ons BPMN-model. Dit hebben we op 10/12/2024 gepresenteerd aan onze coach Kathleen."
     },
@@ -869,7 +869,7 @@ const doelstellingen = {
     "17.1 Beschrijven en rekening houden met de relevante ITIL practices": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Michiel",
       "project": "Vervang Opdracht ITIL",
       "bewijs": `${makeAccordion(KGK)} <a href='assets/17.1/ITIL vervang opdracht 1.1.pdf' target='_blank'>Klik hier voor het document te bekijken.</a>
       <br/> <a href='assets/17.1/mail-marleen.png' target='_blank'>Klik hier voor de afbeelding van de mail groter te bekijken.</a>`
@@ -936,7 +936,7 @@ const doelstellingen = {
     "20.1 Uitvoeren van eenvoudige leidinggevende taken en herkennen van leiderschapsstijlen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Kathleen",
       "project": "Business Essentials",
       "bewijs": "Behaald in het Opleidingsonderdeel \'Business Essentials\' <a href='assets/credits/BE.png' target='_blank'><img src='assets/credits/BE.png' alt='Business Essentials Credit'/></a>"
     },
