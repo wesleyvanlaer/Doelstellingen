@@ -307,7 +307,7 @@ const doelstellingen = {
     "7.3 Bouwen van full stack webapplicatie met een modern framework": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "KGK-001 - Kogeka & Java Advanced",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>In het Kogeka-project hebben we gebruik gemaakt van Laravel (Versie 10) als full-stack framework. Laravel is een uitgebreid PHP-framework met tal van mogelijkheden, waaronder een ingebouwde ORM en een geïntegreerd systeem voor authenticatie. Deze functies maken het mogelijk om snel en efficiënt full-stack webapplicaties te ontwikkelen. Dankzij de MVC-structuur van Laravel blijft de code bovendien goed georganiseerd en eenvoudig te onderhouden.
       Hierbij een korte demo video van de applicatie:<br/>
@@ -332,7 +332,7 @@ const doelstellingen = {
     "7.6 Bouwen van een cross-platform mobile applicatie": {
       "type": ["app"],
       "status": "d",
-      "verified": "",
+      "verified": "Michaël & Vince",
       "project": "OVI-001 - Voedingsdagboek",
       "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>VVoor het project OVI-001 - Voedingsdagboek hebben Tom en ik een cross-platform mobiele applicatie ontwikkeld met React Native en het Expo Framework.<br/>React Native, ontwikkeld door Facebook in 2015, maakt het mogelijk om met één codebase apps te bouwen voor Android en iOS, met de uitstraling en prestaties van native apps. Het vereenvoudigt en versnelt het ontwikkelproces.<br/>Expo is een open-source platform dat React Native ondersteunt bij het ontwikkelen van universele apps. Het biedt tools voor snelle ontwikkeling en toegang tot native functies zonder complexe configuraties.<br/>Deze technologieën stelden ons in staat een gebruiksvriendelijke en veelzijdige app te maken.
       <br/>Hierbij een korte demo video van de applicatie:<br/>
