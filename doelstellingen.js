@@ -203,11 +203,13 @@ const doelstellingen = {
   "5 ONTWERPEN - Je toetst je oplossingen aan de vereisten van de klant doorheen het ontwerp- en ontwikkelproces.": {
     "5.1 Deelnemen aan en leiden van sprint reviews en demo meetings": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
       "project": "TM-012 - Pikassa, ook eigen startproject",
-      "bewijs": `${makeAccordion(Pikassa)} Behaald doormiddel van:<br/>
-      Van 23 september 2024 tot 30 september 2024 heb ik samen met César en van 17 oktober 2024 tot 22 oktober 2024 heb ik samen met Tom de rol van scrum master vervuld voor het Pikkassa-project van de tweedejaarsstudenten. <br/> Gedurende deze weken hebben we de dagelijkse stand-ups en een demo meeting geleid, waarbij we de studenten vroegen naar hun dagelijkse voortgang en hun plannen voor de komende dagen. <br/> Aan het einde van de week hebben we ook de retrospective geleid. We hebben de studenten aangemoedigd om hun best te doen en ervoor gezorgd dat ze hun werk op tijd af hadden.`
+      "bewijs": `${makeAccordion(Pikassa, KGK)} Behaald doormiddel van:<br/>
+      Van 23 september 2024 tot 30 september 2024 heb ik samen met César en van 17 oktober 2024 tot 22 oktober 2024 heb ik samen met Tom de rol van scrum master vervuld voor het Pikkassa-project van de tweedejaarsstudenten. <br/> Gedurende deze weken hebben we de dagelijkse stand-ups en een demo meeting geleid, waarbij we de studenten vroegen naar hun dagelijkse voortgang en hun plannen voor de komende dagen. <br/> Aan het einde van de week hebben we ook de retrospective geleid. We hebben de studenten aangemoedigd om hun best te doen en ervoor gezorgd dat ze hun werk op tijd af hadden.
+      <br/><br/><hr/><br/>
+      Tijdens het Kogeka project (ons start project) heb ik ook meegedaan aan de daily standups en de demo meetings. Hier was ik geen leider maar een deelnemer. Hierbij heb ik ook mijn werk laten zien en feedback gekregen van de scrum masters en de klant.`
     },
     "5.2 Terugkoppelen naar de klant rond gemaakte conceptuele en ontwerpgrelateerde keuzes": {
       "type": ["alles"],
@@ -342,7 +344,7 @@ const doelstellingen = {
       "type": ["app"],
       "status": "d",
       "verified": "",
-      "project": "",
+      "project": "MOBI-021",
       "bewijs": `${makeAccordion(VR)} Behaald doormiddel van:<br/>Binnen het project MOBI-021 - VR Handrevalidatie hebben we innovatieve functionaliteiten ontwikkeld die gebruikmaken van Virtual Reality-technologie. Door middel van interactieve en gepersonaliseerde virtuele oefeningen konden gebruikers hun handbewegingen en motorische vaardigheden trainen in een meeslepende virtuele omgeving. Dit stelde ons in staat om een motiverende en effectieve revalidatie-ervaring te creëren die het herstelproces ondersteunt en de betrokkenheid van patiënten vergroot.
       <br/><br/>
       Hierbij een paar demo foto's van de applicatie:<br/>
@@ -796,10 +798,10 @@ const doelstellingen = {
     },
     "13.2 Aanpassen van bestaande documentatie": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "KGK-001 - Kogeka",
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project heb ik tijdens de support van de applicatie de documentatie aangepast. Dit omvatte het bijwerken van de functionele en technische specificaties, het aanpassen van features en het verwijderen van verouderde informatie. Door de documentatie up-to-date te houden, konden we de applicatie beter onderhouden en de kwaliteit van de code en de gebruikerservaring verbeteren.`
     },
     "13.3 Opstellen van installatiehandleidingen": {
       "type": ["alles"],
@@ -999,10 +1001,10 @@ const doelstellingen = {
   "22 PROFESSIONEEL HANDELEN - Je houdt rekening met en handelt naar de internationale en bedrijfseconomische context.": {
     "22.1 Beschrijven van en actief op zoek gaan naar de toegevoegde waarde van een oplossing": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "KGK-001 - Kogeka",
-      "bewijs": ""
+      "bewijs": `${makeAccordion(KGK)} Behaald door middel van:<br/> Tijdens het Kogeka-project hebben we ons actief ingezet om de toegevoegde waarde van de ontwikkelde webapplicatie te identificeren en duidelijk te communiceren. We hebben nauw samengewerkt met de klant om hen te helpen de voordelen van de applicatie volledig te begrijpen en te waarderen. Een van de belangrijkste voordelen was de verbetering van de communicatie en samenwerking tussen leerkrachten en studenten. Deze applicatie heeft de interactie vergemakkelijkt door het aanbieden van een gebruiksvriendelijke interface voor het delen van informatie en feedback. Daarnaast heeft de applicatie bijgedragen aan het verhogen van de efficiëntie van het lesgeven door het stroomlijnen van administratieve taken, zoals het bijhouden van de voortgang van studenten en het beheren van lesplannen. Door de intuïtieve en overzichtelijke structuur van de applicatie kunnen zowel leerkrachten als leerlingen gemakkelijk hun taken en voortgang monitoren, wat resulteert in een grotere betrokkenheid van de studenten. Het was voor ons van cruciaal belang om deze voordelen te benadrukken, zodat de klant het volledige potentieel van de applicatie kon inzien en benutten.`
     },
     "22.2 Tonen van een open blik naar de wereld en andere culturen": {
       "type": ["alles"],
@@ -1022,18 +1024,32 @@ const doelstellingen = {
   "23 PROFESSIONEEL HANDELEN - Je handelt ethisch, deontologisch en maatschappelijk verantwoord en neemt verantwoordelijkheid voor resultaten.": {
     "23.1 Rekening houden met de ecologische, sociale en maatschappelijke impact van oplossingen en werkmethoden": {
       "type": ["alles"],
-      "status": "td",
+      "status": "ip",
       "verified": "",
       "project": "RZL",
       "bewijs": ""
     },
     "23.2 Maken van een neutrale analyse bij fouten, tegenslagen en mislukkingen zonder verantwoordelijkheid uit de weg te gaan": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "KGK-001 - Kogeka, retro van pikassa",
-      "bewijs": ""
-    }
+      "bewijs": `${makeAccordion(KGK)} <h1>PDCA Cirkel</h1>
+
+      <h2>Plan:</h2>
+      <p>Aan het begin van ons project was het doel om een webapplicatie te ontwikkelen die leerlingen van Kogeka zou ondersteunen bij het bijhouden van de medicatie en voeding van dieren. We kozen ervoor de applicatie te bouwen met Laravel als framework en MySQL voor de database. De applicatie zou draaien op schooltablets, waarbij elke leerling toegang kreeg tot een persoonlijke inlog om de dieren onder hun zorg te monitoren en de registratie van voeding en medicatie te beheren.</p>
+      <p>In de planningsfase hebben we echter niet voldoende aandacht besteed aan de architecturale keuzes, met name het gebruik van modellen voor de communicatie met de database. In plaats van modellen te implementeren, kozen we ervoor om directe SQL-queries te schrijven. Deze beslissing bleek later problematisch, omdat het leidde tot een minder gestructureerde en moeilijker onderhoudbare codebasis.</p>
+
+      <h2>Do:</h2>
+      <p>De uitvoering van het project begon met de ontwikkeling van de applicatie in Laravel. We richtten ons op zowel de frontend als de backend, waarbij we functionaliteiten bouwden zoals het registreren van voeding en medicatie en het opzetten van inlogsystemen voor de leerlingen. Echter, doordat we geen modellen gebruikten voor de interactie met de database en in plaats daarvan vertrouwden op directe SQL-queries, ontstonden er verschillende problemen. De code werd minder flexibel en moeilijker te onderhouden, en het had ook een negatieve invloed op de beveiliging van de applicatie. Ondanks deze complicaties slaagden we erin om de applicatie te voltooien, die uiteindelijk succesvol op de schooltablets draaide, zoals oorspronkelijk gepland.</p>
+
+      <h2>Check:</h2>
+      <p>Tijdens de testfase kregen we de gelegenheid om de code te evalueren, maar deze beoordelingen hadden systematischer moeten plaatsvinden bij elke pull request. Door de tijdsdruk werd de code niet altijd grondig gecontroleerd. Het ontbreken van een gestructureerde aanpak met modellen voor de database-interacties leidde tot onduidelijkheden en moeilijkheden bij het aanbrengen van wijzigingen. Het opsporen van fouten in de SQL-queries werd daardoor ook een uitdaging. Deze tekortkomingen in het proces zorgden voor vertragingen in het ontwikkeltraject.</p>
+
+      <h2>Act:</h2>
+      <p>Op basis van de ervaringen en de problemen die we hebben ondervonden, is het duidelijk dat het essentieel is om in toekomstige projecten architecturale ontwerppatronen toe te passen, zoals het gebruik van modellen en een Object-Relational Mapping (ORM) systeem, zoals Laravel's Eloquent. Dit zal niet alleen zorgen voor meer gestructureerde en onderhoudbare code, maar ook bijdragen aan de veiligheid en flexibiliteit van de applicatie.</p>
+      <p>Inmiddels hebben we de bestaande code gerefactored, waarbij we nu gebruikmaken van modellen voor de communicatie met de database. Bovendien zouden we het team kunnen voorzien van extra training in best practices voor applicatieontwikkeling, zodat we in de toekomst nog efficiënter en effectiever kunnen werken.</p>`
+    },
   },
   "24 PROFESSIONEEL HANDELEN - Je doet aan levenslang leren en roept tijdig externe deskundigheid in.": {
     "24.1 Zelfstandig bijkomende opleidingen kiezen en succesvol afleggen": {
