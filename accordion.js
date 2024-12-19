@@ -105,3 +105,21 @@ const ENT = {
     </div>
   `
 };
+
+const VR = {
+  "title": "Project Info - MOBI-021 - VR Handrevalidatie",
+  "text": `
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Opdrachtgever</h2>
+      <p><a href='https://thomasmore.be/nl/expertisecentrum-zorg-en-welzijn/mobilab-and-care' target='_blank'>Thomas More Mobilab & Care</a></p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Projectomschrijving</h2>
+      <p>Het MOBI-021-project focust op de ontwikkeling van een Virtual Reality (VR)-toepassing voor handrevalidatie. Deze baanbrekende technologie helpt patiënten door interactieve en motiverende virtuele oefeningen aan te bieden. De VR-toepassing zorgt voor gepersonaliseerde therapieën, waarbij patiënten hun handbewegingen en motorische vaardigheden in een virtuele omgeving kunnen verbeteren. Het doel is om het herstel te versnellen, de betrokkenheid van de patiënt te vergroten en een meer effectieve revalidatie-ervaring te bieden.</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Projectduur</h2>
+      <p>Oktober 2024 &rarr; December 2024</p>
+    </div>
+  `
+};

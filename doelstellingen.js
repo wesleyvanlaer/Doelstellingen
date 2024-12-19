@@ -340,10 +340,17 @@ const doelstellingen = {
     },
     "7.7 Toevoegen van augmented reality functionaliteiten aan applicaties": {
       "type": ["app"],
-      "status": "td",
+      "status": "d",
       "verified": "",
       "project": "",
-      "bewijs": ""
+      "bewijs": `${makeAccordion(VR)} Behaald doormiddel van:<br/>Binnen het project MOBI-021 - VR Handrevalidatie hebben we innovatieve functionaliteiten ontwikkeld die gebruikmaken van Virtual Reality-technologie. Door middel van interactieve en gepersonaliseerde virtuele oefeningen konden gebruikers hun handbewegingen en motorische vaardigheden trainen in een meeslepende virtuele omgeving. Dit stelde ons in staat om een motiverende en effectieve revalidatie-ervaring te creëren die het herstelproces ondersteunt en de betrokkenheid van patiënten vergroot.
+      <br/><br/>
+      Hierbij een paar demo foto's van de applicatie:<br/>
+      <img src='assets/7.7/vr1.png' alt='VR Handrevalidatie' />
+      <br/><br/>
+      <img src='assets/7.7/vr2.png' alt='VR Handrevalidatie' />
+      <br/><br/>
+      <img src='assets/7.7/vr3.png' alt='VR Handrevalidatie' />`
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
