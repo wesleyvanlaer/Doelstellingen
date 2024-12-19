@@ -308,10 +308,12 @@ const doelstellingen = {
       "type": ["app", "ai"],
       "status": "d",
       "verified": "",
-      "project": "KGK-001 - Kogeka",
+      "project": "KGK-001 - Kogeka & Java Advanced",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>In het Kogeka-project hebben we gebruik gemaakt van Laravel (Versie 10) als full-stack framework. Laravel is een uitgebreid PHP-framework met tal van mogelijkheden, waaronder een ingebouwde ORM en een geïntegreerd systeem voor authenticatie. Deze functies maken het mogelijk om snel en efficiënt full-stack webapplicaties te ontwikkelen. Dankzij de MVC-structuur van Laravel blijft de code bovendien goed georganiseerd en eenvoudig te onderhouden.
       Hierbij een korte demo video van de applicatie:<br/>
-      <video width='560' height='315' src='assets/7.3/Demo video.mp4' controls></video>`
+      <video width='560' height='315' src='assets/7.3/Demo video.mp4' controls></video>
+      <br/><br/>
+      Voor grotere versie of klik <a href='assets/credits/JA.png' target='_blank'>hier</a>:<img src='assets/credits/JA.png' alt='Java Advanced Credit' />`
     },
     "7.4 Uitwerken van een businesscase in een ERP/CRM-pakket": {
       "type": ["app", "ai"],
