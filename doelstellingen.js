@@ -343,7 +343,7 @@ const doelstellingen = {
     "7.7 Toevoegen van augmented reality functionaliteiten aan applicaties": {
       "type": ["app"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "MOBI-021",
       "bewijs": `${makeAccordion(VR)} Behaald doormiddel van:<br/>Binnen het project MOBI-021 - VR Handrevalidatie hebben we innovatieve functionaliteiten ontwikkeld die gebruikmaken van Virtual Reality-technologie. Door middel van interactieve en gepersonaliseerde virtuele oefeningen konden gebruikers hun handbewegingen en motorische vaardigheden trainen in een meeslepende virtuele omgeving. Dit stelde ons in staat om een motiverende en effectieve revalidatie-ervaring te creëren die het herstelproces ondersteunt en de betrokkenheid van patiënten vergroot.
       <br/><br/>
@@ -792,14 +792,14 @@ const doelstellingen = {
     "13.1 Documenteren van eigen gemaakte oplossingen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project heb ik een installatiehandleiding opgesteld. Hierin hebben we stap voor stap uitgelegd hoe de applicatie geïnstalleerd en geconfigureerd moet worden. Dit heeft ons geholpen om de applicatie te documenteren en te ondersteunen bij het installatieproces.<br/><br/><a href='assets/13.3/Installatiehandeleiding Kogeka - hosting Combell.pdf' target='_blank'>Klik hier voor de handleiding te zien.</a>`
     },
     "13.2 Aanpassen van bestaande documentatie": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/> Voor het Kogeka-project heb ik tijdens de support van de applicatie de documentatie aangepast. Dit omvatte het bijwerken van de functionele en technische specificaties, het aanpassen van features en het verwijderen van verouderde informatie. Door de documentatie up-to-date te houden, konden we de applicatie beter onderhouden en de kwaliteit van de code en de gebruikerservaring verbeteren.`
     },
@@ -1002,7 +1002,7 @@ const doelstellingen = {
     "22.1 Beschrijven van en actief op zoek gaan naar de toegevoegde waarde van een oplossing": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
       "bewijs": `${makeAccordion(KGK)} Behaald door middel van:<br/> Tijdens het Kogeka-project hebben we ons actief ingezet om de toegevoegde waarde van de ontwikkelde webapplicatie te identificeren en duidelijk te communiceren. We hebben nauw samengewerkt met de klant om hen te helpen de voordelen van de applicatie volledig te begrijpen en te waarderen. Een van de belangrijkste voordelen was de verbetering van de communicatie en samenwerking tussen leerkrachten en studenten. Deze applicatie heeft de interactie vergemakkelijkt door het aanbieden van een gebruiksvriendelijke interface voor het delen van informatie en feedback. Daarnaast heeft de applicatie bijgedragen aan het verhogen van de efficiëntie van het lesgeven door het stroomlijnen van administratieve taken, zoals het bijhouden van de voortgang van studenten en het beheren van lesplannen. Door de intuïtieve en overzichtelijke structuur van de applicatie kunnen zowel leerkrachten als leerlingen gemakkelijk hun taken en voortgang monitoren, wat resulteert in een grotere betrokkenheid van de studenten. Het was voor ons van cruciaal belang om deze voordelen te benadrukken, zodat de klant het volledige potentieel van de applicatie kon inzien en benutten.`
     },
@@ -1032,7 +1032,7 @@ const doelstellingen = {
     "23.2 Maken van een neutrale analyse bij fouten, tegenslagen en mislukkingen zonder verantwoordelijkheid uit de weg te gaan": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Jochen",
       "project": "KGK-001 - Kogeka, retro van pikassa",
       "bewijs": `${makeAccordion(KGK)} <h1>PDCA Cirkel</h1>
 
