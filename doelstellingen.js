@@ -239,7 +239,7 @@ const doelstellingen = {
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Verbruggen",
       "project": "TMEnt-006",
       "bewijs": `${makeAccordion(ENT)} 
       Behaald doormiddel van:<br/>
@@ -578,7 +578,7 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "d",
       "verified": "Bram Verbruggen",
-      "project": "Linux Webserices",
+      "project": "Linux Webservices",
       "bewijs": "Voor grotere versie of klik <a href='assets/credits/LW.png' target='_blank'>hier</a>:<img src='assets/credits/LW.png' alt='linux Webserices Credit' />"
     },
     "9.3 Instellen en beschrijven van HTTPS en andere basic security building blocks": {
@@ -614,7 +614,7 @@ const doelstellingen = {
     "9.6 Configureren en beschrijven van de DNS functionaliteiten in verschillende soorten netwerken": {
       "type": ["app", "ai", "ccs"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Verbruggen",
       "project": "Portfolio",
       "bewijs": `<div><strong>Wat is DNS?</strong></div> <p>DNS (Domain Name System) is als een telefoonboek voor het internet. Stel je voor dat je een website wilt bezoeken, zoals <code>example.com</code>. Je computer weet niet direct waar deze website zich bevindt, dus vraagt hij het aan DNS. DNS vertaalt de naam <code>example.com</code> naar een IP-adres, zoals <code>192.0.2.1</code>, zodat je computer weet waar hij de website kan vinden.</p> <div><strong>Wat is DNSSEC?</strong></div> <p>DNSSEC (Domain Name System Security Extensions) is een beveiligingslaag bovenop DNS. Het zorgt ervoor dat de antwoorden die je krijgt van DNS niet zijn vervalst. Dit doet DNSSEC door digitale handtekeningen toe te voegen aan de DNS-gegevens. Deze handtekeningen kunnen worden gecontroleerd om te bevestigen dat de gegevens echt zijn en niet zijn veranderd.</p> <div><strong>Verschillen tussen DNS en DNSSEC</strong></div> <div><strong>Beveiliging</strong></div> <div>- <strong>DNS:</strong> Standaard DNS heeft geen ingebouwde beveiliging. Dit betekent dat iemand de antwoorden kan vervalsen en je naar een verkeerde website kan sturen.</div> <div>- <strong>DNSSEC:</strong> Voegt beveiliging toe door digitale handtekeningen te gebruiken. Dit zorgt ervoor dat je zeker weet dat de antwoorden die je krijgt echt zijn.</div> <div><strong>Werking</strong></div> <div>- <strong>DNS:</strong> Werkt door simpelweg domeinnamen om te zetten in IP-adressen zonder enige vorm van controle.</div> <div>- <strong>DNSSEC:</strong> Gebruikt een systeem van sleutels en handtekeningen om te controleren of de DNS-gegevens niet zijn veranderd.</div> <div><strong>Persoonlijke Implementatie</strong></div> <p>Ik heb DNSSEC toegepast op mijn eigen portfolio website. Door DNSSEC te activeren, voeg ik extra beveiliging toe aan de DNS-records van mijn domeinnaam. Dit zorgt ervoor dat de DNS-antwoorden die mijn website ontvangt echt zijn en niet zijn vervalst. Hierdoor wordt de veiligheid en integriteit van mijn website verhoogd.</p> <p>Hieronder zie je een screenshot van de DNSSEC-instellingen van mijn domeinnaam:</p> <br/> <img src='assets/9.6/dnssec.png' alt='DNSSEC Instellingen' /> <br/> <p>Door DNSSEC te activeren, zorg ik ervoor dat mijn website en de gegevens die het verstuurt en ontvangt veilig zijn. Dit is essentieel om de privacy en beveiliging van mijn website te waarborgen.</p>`
     },
@@ -672,7 +672,7 @@ const doelstellingen = {
     "10.2 Beveiligen van webapplicaties en API's": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Verbruggen",
       "project": "Java Advanced",
       "bewijs": `${makeAccordion(KGK)}
 
@@ -1142,7 +1142,7 @@ Door deze onderwerpen te presenteren en te verdiepen, heb ik mijn kennis van opk
     "21.4 Tonen van een permanente IT security awareness tijdens het werken": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Verbruggen",
       "project": "Paswoordmanager, 2FA",
       "bewijs": `OmDeze doelstelling heb ik behaald door het gebruik van 1Password, een wachtwoordmanager, in combinatie met andere maatregelen die een sterke focus op IT-beveiliging waarborgen. 1Password helpt bij het beheren van sterke, unieke wachtwoorden voor alle accounts, wat essentieel is voor een veilige werkomgeving. Daarnaast is tweefactorauthenticatie (2FA) ingesteld waar mogelijk, en worden regelmatig software-updates uitgevoerd, waaronder beveiligingspatches. <br/><br/>Ook ben ik alert op risico's zoals phishing en social engineering. Ik neem bewust voorzorgsmaatregelen bij het openen van verdachte e-mails of links. Verder wordt veilige software en versleuteling gebruikt voor gevoelige data, wat bijdraagt aan een holistische benadering van beveiliging. <br/><br/>Dankzij deze voortdurende aandacht voor beveiliging en het gebruik van geschikte tools zoals 1Password, kan worden gesteld dat een permanente IT security awareness tijdens het werken is gerealiseerd. 
       <br/><br/> <a href='assets/21.4/1password.png' target='_blank'><img src='assets/21.4/1password.png' alt='1Password' /></a>`
