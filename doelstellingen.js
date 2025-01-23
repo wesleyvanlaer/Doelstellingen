@@ -51,7 +51,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "Jochen",
       "project": "OVI-001 - Voedingsdagboek",
-      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Tom en ik hebben voor dit project onderzoek gedaan naar diverse frameworks, tools en libraries voor Mobile Application Development. We hebben dit gedaan door de documentatie, reviews en populariteit van verschillende opties te onderzoeken. Uiteindelijk hebben we besloten om te werken met React Native in combinatie met het Expo Framework.`  
+      "bewijs": `${makeAccordion(OVI)} Behaald doormiddel van:<br/>Tom en ik hebben voor dit project onderzoek gedaan naar diverse frameworks, tools en libraries voor Mobile Application Development. We hebben dit gedaan door de documentatie, reviews en populariteit van verschillende opties te onderzoeken. Uiteindelijk hebben we besloten om te werken met React Native in combinatie met het Expo Framework.`
     },
     "3.2 Analyseren en beoordelen van (semi-)out-of-the-box (deel)oplossingen voor functionaliteiten": {
       "type": ["alles"],
@@ -238,10 +238,33 @@ const doelstellingen = {
     },
     "6.2 Uitbouw en gebruik van continuous delivery / deployment": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "TMEnt-006",
+      "bewijs": `${makeAccordion(ENT)} 
+      Behaald doormiddel van:<br/>
+      Voor het project hebben ik gebruik gemaakt van continuous delivery en deployment om onze code efficiënt en betrouwbaar te deployen naar de cloud. Dit proces omvatte het automatiseren van het build- en deployproces, waardoor we snel en regelmatig updates konden uitrollen zonder handmatige tussenkomst. Hierdoor konden we de time-to-cloud verkorten.<br/><br/>
+      Dit heb ik aan de hand van een koppeling te leggen tussen Vercel en Github.
+
+      Hieronder ziet u een screenshot van de deployments:<br/><img src='assets/6.2/ent.jpg'/>
+
+      <br/><br/>
+      Hier bij een stappenplan hoe ik dit heb gedaan:
+      <br/>Als eerst starten we met een nieuw project toe te voegen aan Vercel. Dit kan je doen door naar de website van Vercel te gaan en in te loggen met je Github account. 
+      Vervolgens klik je op de knop 'Add New ... Project' en selecteer je de repository waarin je project zich bevindt.
+      <img src='assets/6.2/ent1.jpg'/> <br/> <br/>
+      Als u het project heeft geselecteerd, klikt u op de knop 'Import'. Vervolgens wordt uw project geïmporteerd in Vercel en wordt er een nieuwe deployment gemaakt. 
+      <img src='assets/6.2/ent2.jpg'/> <br/> <br/>
+      Hier kan u de instellingen van de deployment aanpassen zoals: de build commando's en .env variablen die u mogelijk nodig heeft. Daarna kan je de deployment starten.
+      <img src='assets/6.2/ent3.jpg'/> <br/> <br/>
+      Als de deployment is gestart, kan u de voortgang van de deployment volgen. 
+      <img src='assets/6.2/ent4.jpg'/> <br/> <br/>
+      Zodra de deployment is voltooid. Kun je terug naar het dashboard gaan en de deployment bekijken. Hier kan je de URL van de deployment vinden en de logs van de deployment bekijken.
+      <img src='assets/6.2/ent5.jpg'/> <br/> <br/>
+
+
+      
+      `
     },
     "6.3 Opleveren van een container image, ondersteund door environment variables": {
       "type": ["alles"],
@@ -254,7 +277,7 @@ const doelstellingen = {
       "type": ["alles"],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "ENT | nog uit te schrijven + te integreren",
       "bewijs": ""
     },
     "6.5 Opleveren van een artifact": {
@@ -326,10 +349,36 @@ const doelstellingen = {
     },
     "7.5 Toepassen van machine learning algoritmen": {
       "type": ["app", "ai"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "P4.0",
-      "bewijs": ""
+      "project": "Tech Talk | PyCaret",
+      "bewijs": `
+          <h1>Toepassen van Machine Learning Algoritmen</h1>
+    <p>
+        Ik heb deze doelstelling gerealiseerd door een Tech Talk te geven over PyCaret aan de tweedejaarsstudenten van Digital Innovation en de coaches, Bram en Vince. 
+        Tijdens deze sessie heb ik de toepassing van machine learning-algoritmen in PyCaret toegelicht en gedemonstreerd.
+    </p><br/>
+    <h2>Inhoud van de presentatie</h2>
+    <ul>
+        <li><strong>- Data Voorbereiding:</strong> Het verwerken en klaarmaken van datasets om ze geschikt te maken voor machine learning-modellen.</li>
+        <li><strong>- Model Selectie en Training:</strong> Het gebruik van PyCaret om verschillende machine learning-algoritmen automatisch te vergelijken en het beste model te selecteren op basis van prestaties.</li>
+        <li><strong>- Tijdreeksanalyse:</strong> Het toepassen van machine learning op tijdreeksgegevens om voorspellingen te maken en trends te identificeren.</li>
+        <li><strong>- Anomaliedetectie:</strong> Het trainen van modellen om afwijkingen in datasets te detecteren en te interpreteren.</li>
+    </ul><br/>
+    <h2>Demonstraties</h2>
+    <p>
+        Tijdens de demo's heb ik laten zien hoe PyCaret machine learning toegankelijk maakt door het stroomlijnen van complexe taken zoals modeltraining, evaluatie en interpretatie. 
+        Ik heb uitgelegd hoe de algoritmen werken en hoe PyCaret geautomatiseerde workflows biedt voor snelle modelontwikkeling.
+    </p><br/>
+    <p>
+        Door deze praktische voorbeelden heb ik laten zien hoe machine learning-algoritmen in realistische situaties kunnen worden toegepast, 
+        en hoe PyCaret hierbij een waardevolle tool is.
+    </p><br/>
+    <h2>Resultaat</h2>
+    <p>
+        Met deze activiteit heb ik niet alleen mijn kennis van machine learning-algoritmen verdiept, maar ook aangetoond hoe deze technieken effectief ingezet kunnen worden in data-analyse en voorspellingen.
+    </p><br/>
+      <iframe src='https://www.canva.com/design/DAGbrmRvM6A/1nc94v4dssnsaLUwKKqJbw/view?embed' width='100%' height='500px' frameborder='0'></iframe>`
     },
     "7.6 Bouwen van een cross-platform mobile applicatie": {
       "type": ["app"],
@@ -564,31 +613,10 @@ const doelstellingen = {
     },
     "9.6 Configureren en beschrijven van de DNS functionaliteiten in verschillende soorten netwerken": {
       "type": ["app", "ai", "ccs"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Portfolio",
-      "bewijs":  `Behaald doormiddel van:
-      <h1>Wat is DNS?</h1>
-    <p>DNS (Domain Name System) is als een telefoonboek voor het internet. Stel je voor dat je een website wilt bezoeken, zoals <code>example.com</code>. Je computer weet niet direct waar deze website zich bevindt, dus vraagt hij het aan DNS. DNS vertaalt de naam <code>example.com</code> naar een IP-adres, zoals <code>192.0.2.1</code>, zodat je computer weet waar hij de website kan vinden.</p>
-
-    <h1>Wat is DNSSEC?</h1>
-    <p>DNSSEC (Domain Name System Security Extensions) is een beveiligingslaag bovenop DNS. Het zorgt ervoor dat de antwoorden die je krijgt van DNS niet zijn vervalst. Dit doet DNSSEC door digitale handtekeningen toe te voegen aan de DNS-gegevens. Deze handtekeningen kunnen worden gecontroleerd om te bevestigen dat de gegevens echt zijn en niet zijn veranderd.</p>
-
-    <h1>Verschillen tussen DNS en DNSSEC</h1>
-    <h2>Beveiliging</h2>
-    <ul>
-        <li><strong>DNS:</strong> Standaard DNS heeft geen ingebouwde beveiliging. Dit betekent dat iemand de antwoorden kan vervalsen en je naar een verkeerde website kan sturen.</li>
-        <li><strong>DNSSEC:</strong> Voegt beveiliging toe door digitale handtekeningen te gebruiken. Dit zorgt ervoor dat je zeker weet dat de antwoorden die je krijgt echt zijn.</li>
-    </ul>
-
-    <h2>Werking</h2>
-    <ul>
-        <li><strong>DNS:</strong> Werkt door simpelweg domeinnamen om te zetten in IP-adressen zonder enige vorm van controle.</li>
-        <li><strong>DNSSEC:</strong> Gebruikt een systeem van sleutels en handtekeningen om te controleren of de DNS-gegevens niet zijn veranderd.</li>
-    </ul>
-    Ook heb ik dit toegepast op mijn eigen portfolio website. Hier heb ik DNSSEC geactiveerd om extra beveiliging toe te voegen aan de DNS-records van mijn domeinnaam. Dit zorgt ervoor dat de DNS-antwoorden die mijn website ontvangt echt zijn en niet zijn vervalst. Hierdoor wordt de veiligheid en integriteit van mijn website verhoogd.
-    Hieronder zie je een screenshot van de DNSSEC instellingen van mijn domeinnaam:
-    <br/><img src='assets/9.6/dnssec.png'/>`
+      "bewijs": `<div><strong>Wat is DNS?</strong></div> <p>DNS (Domain Name System) is als een telefoonboek voor het internet. Stel je voor dat je een website wilt bezoeken, zoals <code>example.com</code>. Je computer weet niet direct waar deze website zich bevindt, dus vraagt hij het aan DNS. DNS vertaalt de naam <code>example.com</code> naar een IP-adres, zoals <code>192.0.2.1</code>, zodat je computer weet waar hij de website kan vinden.</p> <div><strong>Wat is DNSSEC?</strong></div> <p>DNSSEC (Domain Name System Security Extensions) is een beveiligingslaag bovenop DNS. Het zorgt ervoor dat de antwoorden die je krijgt van DNS niet zijn vervalst. Dit doet DNSSEC door digitale handtekeningen toe te voegen aan de DNS-gegevens. Deze handtekeningen kunnen worden gecontroleerd om te bevestigen dat de gegevens echt zijn en niet zijn veranderd.</p> <div><strong>Verschillen tussen DNS en DNSSEC</strong></div> <div><strong>Beveiliging</strong></div> <div>- <strong>DNS:</strong> Standaard DNS heeft geen ingebouwde beveiliging. Dit betekent dat iemand de antwoorden kan vervalsen en je naar een verkeerde website kan sturen.</div> <div>- <strong>DNSSEC:</strong> Voegt beveiliging toe door digitale handtekeningen te gebruiken. Dit zorgt ervoor dat je zeker weet dat de antwoorden die je krijgt echt zijn.</div> <div><strong>Werking</strong></div> <div>- <strong>DNS:</strong> Werkt door simpelweg domeinnamen om te zetten in IP-adressen zonder enige vorm van controle.</div> <div>- <strong>DNSSEC:</strong> Gebruikt een systeem van sleutels en handtekeningen om te controleren of de DNS-gegevens niet zijn veranderd.</div> <div><strong>Persoonlijke Implementatie</strong></div> <p>Ik heb DNSSEC toegepast op mijn eigen portfolio website. Door DNSSEC te activeren, voeg ik extra beveiliging toe aan de DNS-records van mijn domeinnaam. Dit zorgt ervoor dat de DNS-antwoorden die mijn website ontvangt echt zijn en niet zijn vervalst. Hierdoor wordt de veiligheid en integriteit van mijn website verhoogd.</p> <p>Hieronder zie je een screenshot van de DNSSEC-instellingen van mijn domeinnaam:</p> <br/> <img src='assets/9.6/dnssec.png' alt='DNSSEC Instellingen' /> <br/> <p>Door DNSSEC te activeren, zorg ik ervoor dat mijn website en de gegevens die het verstuurt en ontvangt veilig zijn. Dit is essentieel om de privacy en beveiliging van mijn website te waarborgen.</p>`
     },
     "9.7 Programmatie en configuratie van smart environment componenten en protocollen": {
       "type": ["iot"],
@@ -646,7 +674,55 @@ const doelstellingen = {
       "status": "d",
       "verified": "",
       "project": "Java Advanced",
-      "bewijs": "Voor grotere versie of klik <a href='assets/credits/JA.png' target='_blank'>hier</a>:<img src='assets/credits/JA.png' alt='Java Advanced Credit' />"
+      "bewijs": `${makeAccordion(KGK)}
+
+      Hieronder geef ik een overzicht van de implementatie van beveiligingsmaatregelen voor het KGK-project, specifiek gericht op de volgende OWASP Top 10-kwetsbaarheden: <b>Broken Access Control</b>, <b>Cryptographic Failures</b>, <b>Injection</b> en <b>Security Logging and Monitoring Failures</b>. Deze maatregelen zijn essentieel voor het waarborgen van de veiligheid van gebruikersgegevens en de stabiliteit van de applicatie.
+      <br><br>
+      <b>1. Broken Access Control (BAC)</b>
+      <br><i>Broken Access Control</i> ontstaat wanneer gebruikers zonder de juiste rechten toegang hebben tot afgeschermde resources of functies, zoals leerlingen die onbedoeld toegang krijgen tot leraar-specifieke data.
+      <br><br><b>Implementatie in Laravel voor KGK:</b>
+      <br>- <b>Middleware-gebaseerde Toegang</b>: In het project hebben we middleware ingesteld om routes te beveiligen op basis van gebruikersrollen (bijvoorbeeld leerlingen en leerkrachten). Met behulp van Laravel's <b>auth</b> middleware kunnen routes worden beperkt.
+      <br><a href='https://laravel.com/docs/10.x/authentication#retrieving-the-authenticated-user' target='_blank'>Documentatie</a>
+      <a href='assets/10.2/auth.png' target='_blank'><img src='assets/10.2/auth.png' alt='Auth Middleware'></a>
+      <br><a href='assets/10.2/authStudenten.png' target='_blank'><img src='assets/10.2/authStudenten.png' alt='authStudenten Middleware'></a>
+      <br><i>Resultaat</i>: Gebruikers hebben enkel toegang tot de onderdelen die voor hen bedoeld zijn, waardoor het risico op ongeoorloofde toegang aanzienlijk wordt verminderd.
+      <br><br>
+      <b>2. Cryptographic Failures</b>
+      <br>Cryptographic Failures ontstaan wanneer gevoelige gegevens onvoldoende zijn beveiligd, bijvoorbeeld door zwakke versleuteling of het onjuist opslaan van vertrouwelijke informatie zoals wachtwoorden en API-sleutels.
+      <br><br><b>Implementatie in Laravel voor KGK:</b>
+      <br>- <b>Sterke Wachtwoord-Hashing</b>: Laravel gebruikt standaard bcrypt voor het hashen van wachtwoorden. We hebben dit verder versterkt door gebruikers te verplichten sterke wachtwoorden te kiezen bij registratie en het instellen van wachtwoordherstel.
+      <br><a href='https://laravel.com/docs/10.x/hashing#main-content' target='_blank'>Documentatie</a>
+      <br><a href='assets/10.2/passwordUpdate.png' target='_blank'><img src='assets/10.2/passwordUpdate.png' alt='P assword update Hashing'></a>
+      <br>- <b>Beveiligde Opslag van Gevoelige Gegevens</b>: Gevoelige gegevens zoals API-sleutels en databasewachtwoorden worden opgeslagen in het <b>.env</b>-bestand. Dit bestand is strikt afgeschermd en niet toegankelijk vanuit de publieke webserver.
+      <br><a href='https://laravel.com/docs/10.x/configuration#environment-configuration' target='_blank'>Documentatie</a>
+      <br><a href='assets/10.2/env.png' target='_blank'><img src='assets/10.2/env.png' alt='Env'></a>
+      <br><i>Resultaat</i>: Gevoelige gegevens zijn zowel in opslag als tijdens transmissie beschermd, waardoor het risico op datalekken of diefstal wordt verminderd.
+      <br><br>
+
+      <b>3. Injection</b>
+      <br>Injection-aanvallen (zoals SQL-injectie) ontstaan wanneer de applicatie schadelijke code aanvaardt en uitvoert. Dit kan worden gebruikt om onbedoelde acties uit te voeren op de database of server.
+      <br><br><b>Implementatie in Laravel voor KGK:</b>
+      <br>- <b>Gebruik van Eloquent ORM</b>: Door Laravels Eloquent ORM te gebruiken voor database-interacties worden SQL-injecties automatisch voorkomen via parameterbinding.
+      <br><a href='https://laravel.com/docs/10.x/eloquent#building-queries' target='_blank'>Documentatie</a>
+      <br><a href='assets/10.2/orm.png' target='_blank'><img src='assets/10.2/orm.png' alt='ORM'></a>
+      <br>- <b>Inputvalidatie en Sanitatie</b>: We gebruiken Laravel's ingebouwde validatiesysteem om alle gebruikersinput te controleren voordat deze wordt verwerkt of opgeslagen in de database. Dit voorkomt dat schadelijke invoer zoals HTML of SQL-code wordt geaccepteerd.
+      <br><a href='https://laravel.com/docs/10.x/validation#quick-writing-the-validation-logic' target='_blank'>Documentatie</a>
+      <br><a href='assets/10.2/validate.png' target='_blank'><img src='assets/10.2/validate.png' alt='Validate'></a>
+      <br><i>Resultaat</i>: Door Eloquent en inputvalidatie zijn we beschermd tegen SQL-injecties en andere invoerkwetsbaarheden, waardoor de veiligheid van de database aanzienlijk is verhoogd.
+      <br><br>
+
+      <b>4. Security Logging and Monitoring Failures</b>
+      <br><i>Security Logging and Monitoring Failures</i> is een categorie die zich richt op het tekortschieten in zichtbaarheid, incidentalerting en forensisch onderzoek. Het omvat bijvoorbeeld onvoldoende logging of monitoring van verdachte activiteiten, wat kan leiden tot late detectie van beveiligingsincidenten.
+      <br><br><b>Implementatie in Laravel voor KGK:</b>
+      <br>- <b>Beveiligingslogboeken</b>: Laravel biedt ondersteuning voor logging via het Monolog-framework. Dit wordt gebruikt om beveiligingsrelevante gebeurtenissen, zoals inlogpogingen, wijzigingen aan gebruikersrollen en mislukte toegangsverzoeken, op te slaan.
+      <br><a href='https://laravel.com/docs/10.x/logging#main-content' target='_blank'>Documentatie</a>
+      <br><a href='assets/10.2/logging.png' target='_blank'><img src='assets/10.2/logging.png' alt='Logging'></a>
+      <br><i>Resultaat</i>: Door uitgebreide logging en monitoring hebben we betere zichtbaarheid in systeemactiviteit, wat snelle detectie en respons op beveiligingsincidenten mogelijk maakt.
+      <br><br>
+
+      <b>Samenvatting</b>:
+      <br>Door de implementatie van bovenstaande maatregelen is de applicatie effectief beschermd tegen Broken Access Control, Cryptographic Failures, Injection en Security Logging and Monitoring Failures. Hierdoor is de kans op datalekken, ongeoorloofde toegang en vertraagde incidentdetectie sterk verminderd. Bovendien maakt het verbeterde logging- en monitoringsysteem forensisch onderzoek en snelle reactie op incidenten mogelijk.
+      <br>  `
     },
     "10.3 Rekening houden met en faciliteren van de toekomstige aanpasbaarheid van applicaties": {
       "type": ["alles"],
@@ -747,10 +823,20 @@ const doelstellingen = {
     },
     "12.2 Mondeling presenteren, demonstreren, toelichten en verantwoorden van resultaten": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "Tech Talk",
-      "bewijs": ""
+      "project": "Requirements Analysis (2023-2024), Doelstellingen-momenten",
+      "bewijs": `
+      
+      Het mondeling toelichten en verantwoorden van mijn resultaten en doelstellingen heb ik gerealiseerd tijdens de Taskade-momenten. Tijdens deze momenten presenteerde ik mijn voortgang en resultaten aan mijn coaches en Subject Matter Experts (SMEs). Hierbij heb ik mijn doelstellingen op een gestructureerde en heldere manier voorgesteld. <br/> <br/>
+
+Ik lichtte niet alleen toe wat ik had bereikt, maar ook hoe ik tot deze resultaten was gekomen. Waar nodig gaf ik een uitgebreide uitleg over de keuzes die ik had gemaakt en de methoden die ik had toegepast. Dit gaf mij de kans om feedback te ontvangen, vragen te beantwoorden en mijn aanpak verder te verfijnen. <br/> <br/>
+
+Daarnaast heb ik in deze sessies de ruimte gekregen om eventuele uitdagingen of belemmeringen te bespreken, waarbij ik gebruik kon maken van de inzichten en expertise van de coaches en SMEs. Dit interactieve proces hielp mij niet alleen om mijn resultaten beter te verantwoorden, maar ook om waardevolle vaardigheden te ontwikkelen in communicatie, samenwerking en het onderbouwen van mijn keuzes. <br/> <br/>
+
+Deze doelstelling heb ik behaald in het opleidingsonderdeel 'Requirements Analysis', dat ik met succes heb afgerond in het academiejaar 2023-2024. <br/> <br/> 
+Voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier</a>:<img src='assets/credits/RA.png' alt='Requirements Analysis Credit' />
+      `
     },
     "12.3 Op een professionele manier contact leggen met bedrijven": {
       "type": ["alles"],
@@ -821,10 +907,23 @@ const doelstellingen = {
   "14 COMMUNICEREN - Je leidt personen zowel individueel als in groep op en ondersteunt hen.": {
     "14.1 Overbrengen van IT-kennis aan een groep personen": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "Tech Talk",
-      "bewijs": ""
+      "project": "Tech Talk | PyCaret",
+      "bewijs": `
+      
+      Ik heb een Tech Talk gegeven over PyCaret aan de tweedejaarsstudenten van Digital Innovation en de coaches, Bram en Vince. Tijdens deze sessie heb ik de basisconcepten van PyCaret toegelicht, zoals het voorbereiden van data, het selecteren en trainen van modellen, en het interpreteren van grafieken en resultaten.<br/><br/> 
+
+In de demo heb ik de volgende stappen behandeld om de werking van PyCaret praktisch te laten zien: <br/>
+- Het gebruik van PyCaret voor Time Series-analyse, inclusief het voorbereiden van datasets en het trainen van modellen. <br/>
+- Demonstreren van anomaliedetectie en hoe PyCaret kan worden ingezet om afwijkingen in data te identificeren. <br/>
+- Uitleg van de grafieken die PyCaret genereert, en hoe deze gebruikt kunnen worden om inzichten te verkrijgen en beslissingen te onderbouwen.<br/>
+- Bespreken van het eenvoudige en gestroomlijnde proces waarmee PyCaret modelvergelijkingen en -selecties mogelijk maakt.<br/>
+- Het gebruik van PyCaret voor het maken van voorspellingen en het evalueren van de prestaties van modellen. <br/><br/>
+Door zowel theorie als praktijk te combineren, heb ik de studenten en coaches een duidelijk beeld gegeven van de mogelijkheden van PyCaret. Ik heb laten zien hoe deze tool de workflow in datagedreven projecten kan verbeteren, met name door het versnellen van modelontwikkeling en -analyse. <br/><br/> 
+
+<iframe src='https://www.canva.com/design/DAGbrmRvM6A/1nc94v4dssnsaLUwKKqJbw/view?embed' width='100%' height='500px' frameborder='0'></iframe>
+`
     },
     "14.2 Ondersteunen van gebruikers in het eerste of continue gebruik van IT": {
       "type": ["alles"],
@@ -863,17 +962,35 @@ const doelstellingen = {
   "16 ONDERNEMEN - Je gebruikt innovatieve oplossingen en staat open voor vernieuwende denkwijzen om blijvend te voldoen aan de veranderende behoeften van het bedrijfsleven en de samenleving.": {
     "16.1 Proactief zoeken en consulteren van de state-of-the-art binnen opdrachten en projecten": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "Tech talk",
-      "bewijs": ""
+      "project": "Tech talk | Cloudflare - KV Worker",
+      "bewijs": `
+      Behaald door middel van:<br/>
+      Het geven van een presentatie over Cloudflare - KV Worker, waarin we onderzoek hebben gedaan naar de nieuwste technologieën en toepassingen van Cloudflare KV Worker. We hebben de state-of-the-art ontwikkelingen besproken, wat ons heeft geholpen om op de hoogte te blijven van innovaties in het vakgebied.<br/><br/>
+      Deze ervaring heeft ons in staat gesteld om onze kennis en vaardigheden te verbreden en toe te passen in onze projecten.<br/><br/>
+      Daarnaast heeft dit onderzoek me de kans geboden om Cloudflare D1 Worker te implementeren voor het OVI-project. Dit heeft bijgedragen aan het versnellen van de applicatie en het verbeteren van de gebruikerservaring.<br/> <br/>
+
+      <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2Fwesleyvanlaer%2FDoelstellingen%2Frefs%2Fheads%2Fmain%2Fassets%2F16%2E1%2FCloudflare%2520%2D%2520KV%2520Worker%2Epptx&amp;wdAr=1.7777777777777777&amp;wdEaa=0' width='100%' height='500px' frameborder='0'>Dit is een ingesloten <a target='_blank' href='https://office.com'>Microsoft Office</a>-presentatiebestand dat mogelijk is gemaakt met <a target='_blank' href='https://office.com/webapps'>Office</a>.</iframe>`
     },
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
-      "project": "Tech Talk",
-      "bewijs": ""
+      "project": "Tech Talk | Flutter vs React Native",
+      "bewijs": `
+      
+Ik heb deze doelstelling gerealiseerd door in een presentatie de toekomstige trends binnen mijn vakgebied te onderzoeken. <br/> <br/>
+
+Tijdens mijn presentatie heb ik de frameworks Flutter en React Native uitgebreid geanalyseerd. Beide frameworks spelen een cruciale rol in cross-platform mobiele appontwikkeling. Ik onderzocht hun sterke en zwakke punten, evenals de toekomstige ontwikkelingen, zoals verbeterde prestaties en een groeiende ondersteuning vanuit de community. <br/> <br/>
+
+Daarnaast ben ik ingegaan op hoe deze technologieën aansluiten bij trends zoals snellere ontwikkelingsprocessen en een verbeterde gebruikerservaring. Dit onderzoek gaf mij niet alleen een beter inzicht in de huidige mogelijkheden, maar ook in de uitdagingen en kansen die zich in de toekomst binnen mijn vakgebied zullen voordoen.<br/> <br/>
+
+Door deze onderwerpen te presenteren en te verdiepen, heb ik mijn kennis van opkomende trends vergroot en mijn vaardigheden verder ontwikkeld. <br/> <br/>
+
+      <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2Fwesleyvanlaer%2FDoelstellingen%2Frefs%2Fheads%2Fmain%2Fassets%2F16%2E2%2FFlutter%2520vs%2520React%2520Native%2Epptx&amp;wdAr=1.7777777777777777' width='100%' height='500px frameborder='0'>Dit is een ingesloten <a target='_blank' href='https://office.com'>Microsoft Office</a>-presentatiebestand dat mogelijk is gemaakt met <a target='_blank' href='https://office.com/webapps'>Office</a>.</iframe>
+      `
+
     }
   },
   "17 ONDERNEMEN - Je houdt rekening met economische randvoorwaarden, relevante regelgeving, best practices en bewaakt de toepassing van het kwaliteitsbeleid van de organisatie.": {
@@ -922,8 +1039,8 @@ const doelstellingen = {
       "status": "d",
       "verified": "Jochen",
       "project": "KGK-001 - Kogeka",
-      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>Tijdens dit project hebben gebruik gemaakt van een Trello borden. Hierdoor hadden we een gedetailleerd projectplan met duidelijke mijlpalen en deadlines voor de sprints.<br/>Alle nodige informatie en beslissingen werden toegevoegd aan de Trello-Kaarten zodat er altijd een overzicht was. <br/><br/> <a href='assets/19.1/Trello bord.png' target='_blank'><img src='assets/19.1/Trello bord.png' alt='Trello Bord KGK-001 - Kogeka' /></a>` 
-      
+      "bewijs": `${makeAccordion(KGK)} Behaald doormiddel van:<br/>Tijdens dit project hebben gebruik gemaakt van een Trello borden. Hierdoor hadden we een gedetailleerd projectplan met duidelijke mijlpalen en deadlines voor de sprints.<br/>Alle nodige informatie en beslissingen werden toegevoegd aan de Trello-Kaarten zodat er altijd een overzicht was. <br/><br/> <a href='assets/19.1/Trello bord.png' target='_blank'><img src='assets/19.1/Trello bord.png' alt='Trello Bord KGK-001 - Kogeka' /></a>`
+
     },
     "19.2 Toepassen en documenteren van de Agile methodologie": {
       "type": ["alles"],
@@ -940,7 +1057,7 @@ const doelstellingen = {
       "verified": "Jochen",
       "project": "Feedpulse gesprekken",
       "bewijs": `Om de twee weken hadden we een meeting met een coach om de voortgang van projecten en de volgende stappen te bespreken. We kregen feedback, bespraken uitdagingen en planden concrete acties. De coach hielp ons reflecteren en verbeteren, zowel professioneel als persoonlijk. Hieronder zie je een foto van mijn Feelpulse-evaluaties van het afgelopen jaar, die mijn voortgang in welzijn en prestaties laten zien.
-      <br/><br/> <a href='assets/19.3/Feedpulse.png' target='_blank'><img src='assets/19.3/Feedpulse.png' alt='Feedpulse' /></a>` 
+      <br/><br/> <a href='assets/19.3/Feedpulse.png' target='_blank'><img src='assets/19.3/Feedpulse.png' alt='Feedpulse' /></a>`
     }
   },
   "20 PROJECTMATIG WERKEN - Je werkt zowel zelfstandig als in een multidisciplinair team mee aan opdrachten en projecten, en voert hierbij eenvoudige leidinggevende taken uit.": {
@@ -970,10 +1087,11 @@ const doelstellingen = {
   "21 PROFESSIONEEL HANDELEN - Je evalueert je eigen functioneren en je stuurt dit bij.": {
     "21.1 Benoemen en werken aan persoonlijke sterktes en werkpunten": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
       "project": "POP",
-      "bewijs": "nog toe te voegen"
+      "bewijs": `Dit heb ik behaald bij het invullen van mijn <a href='assets/21.1/POP.pdf' target='_blank'>Persoonlijk Ontwikkelingsplan</a>.
+      <iframe src='assets/21.1/POP.pdf'/ class='w-full flex flex-grow' height='500' title='Persoonlijk Ontwikkelingsplan | Wesley Van Laer'></iframe>`
     },
     "21.2 Evalueren en bijsturen van eigen handelen": {
       "type": ["alles"],
@@ -981,21 +1099,53 @@ const doelstellingen = {
       "verified": "Jochen",
       "project": "Feedpulse gesprekken",
       "bewijs": `Om de twee weken hadden we een meeting met een coach om de voortgang van projecten en de volgende stappen te bespreken. We kregen feedback, bespraken uitdagingen en planden concrete acties. De coach hielp ons reflecteren en verbeteren, zowel professioneel als persoonlijk. Hieronder zie je een foto van mijn Feelpulse-evaluaties van het afgelopen jaar, die mijn voortgang in welzijn en prestaties laten zien.
-      <br/><br/> <a href='assets/19.3/Feedpulse.png' target='_blank'><img src='assets/19.3/Feedpulse.png' alt='Feedpulse' /></a>` 
+      <br/><br/> <a href='assets/19.3/Feedpulse.png' target='_blank'><img src='assets/19.3/Feedpulse.png' alt='Feedpulse' /></a>`
     },
     "21.3 Opstellen en volgen van een formeel remediëringsplan": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
-      "project": "project ENT om doelstellingen te halen",
-      "bewijs": ""
+      "project": "TMEnt-006",
+      "bewijs": `    
+      <h1>Toepassing van de PDCA-cirkel op het zelfstandig ontwikkelen van een technische applicatie</h1>
+    <h2>1. Plan</h2>
+    <p><strong>Doel:</strong> Zelfstandig een technische applicatie ontwikkelen zonder externe hulp en de benodigde doelstellingen bepalen.</p>
+    <ul>
+        <li>Doelstellingen vaststellen (functionele applicatie, zelfstandigheid, technische vaardigheden bewijzen).</li>
+        <li>Keuze van programmeertalen, tools en projectplanning opstellen.</li>
+    </ul>
+
+    <h2>2. Do</h2>
+    <p><strong>Uitvoering:</strong></p>
+    <ul>
+        <li>Ontwerpen en ontwikkelen van de applicatie op basis van het plan.</li>
+        <li>Code schrijven, testen en problemen zelfstandig oplossen door documentatie en online bronnen te raadplegen.</li>
+    </ul>
+
+    <h2>3. Check</h2>
+    <p><strong>Evaluatie:</strong></p>
+    <ul>
+        <li>De applicatie uitvoerig testen om te controleren of alle functionaliteiten werken.</li>
+        <li>Zelfbeoordeling of de doelstellingen zijn behaald en reflectie op het proces.</li>
+    </ul>
+
+    <h2>4. Act</h2>
+    <p><strong>Acties na evaluatie:</strong></p>
+    <ul>
+        <li>Verbeteringen aan de applicatie doorvoeren op basis van testresultaten.</li>
+        <li>Reflecteren op het ontwikkelingsproces en lessen trekken voor toekomstige projecten.</li>
+    </ul>
+
+    <h2>Conclusie</h2>
+    <p>Door de PDCA-cirkel toe te passen, heb ik de applicatie succesvol ontwikkeld, mijn zelfstandigheid bewezen en mijn technische vaardigheden versterkt.</p>`
     },
     "21.4 Tonen van een permanente IT security awareness tijdens het werken": {
       "type": ["alles"],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "git ignore",
-      "bewijs": ""
+      "project": "Paswoordmanager, 2FA",
+      "bewijs": `OmDeze doelstelling heb ik behaald door het gebruik van 1Password, een wachtwoordmanager, in combinatie met andere maatregelen die een sterke focus op IT-beveiliging waarborgen. 1Password helpt bij het beheren van sterke, unieke wachtwoorden voor alle accounts, wat essentieel is voor een veilige werkomgeving. Daarnaast is tweefactorauthenticatie (2FA) ingesteld waar mogelijk, en worden regelmatig software-updates uitgevoerd, waaronder beveiligingspatches. <br/><br/>Ook ben ik alert op risico's zoals phishing en social engineering. Ik neem bewust voorzorgsmaatregelen bij het openen van verdachte e-mails of links. Verder wordt veilige software en versleuteling gebruikt voor gevoelige data, wat bijdraagt aan een holistische benadering van beveiliging. <br/><br/>Dankzij deze voortdurende aandacht voor beveiliging en het gebruik van geschikte tools zoals 1Password, kan worden gesteld dat een permanente IT security awareness tijdens het werken is gerealiseerd. 
+      <br/><br/> <a href='assets/21.4/1password.png' target='_blank'><img src='assets/21.4/1password.png' alt='1Password' /></a>`
     }
   },
   "22 PROFESSIONEEL HANDELEN - Je houdt rekening met en handelt naar de internationale en bedrijfseconomische context.": {
@@ -1057,7 +1207,7 @@ const doelstellingen = {
       "status": "d",
       "verified": "Jochen",
       "project": "Basisopleiding Odoo",
-      "bewijs": "Dit heb ik behaald bij de het volgen van de <a href='assets/24.1/2023-03-02 Certificaat ODOO.pdf' target='_blank'>Basisopleiding Odoo</a><iframe src='assets/24.1/2023-03-02 Certificaat ODOO.pdf'/ class='w-full h-full flex flex-grow' title='Basisopleiding Odoo'>"
+      "bewijs": "Dit heb ik behaald bij de het volgen van de <a href='assets/24.1/2023-03-02 Certificaat ODOO.pdf' target='_blank'>Basisopleiding Odoo</a><iframe src='assets/24.1/2023-03-02 Certificaat ODOO.pdf'/ class='w-full flex flex-grow' height='500' title='Basisopleiding Odoo'>"
     },
     "24.2 Proactief externe deskundigheid inroepen wanneer nodig": {
       "type": ["alles"],
