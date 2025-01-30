@@ -405,7 +405,7 @@ const doelstellingen = {
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
-      "status": "d",
+      "status": "ip",
       "verified": "",
       "project": "TMEnt-006",
       "bewijs": `${makeAccordion(ENT)} Behaald doormiddel van het gebruik van application state: Het consistent beheren van data, zoals gebruikersinformatie en instellingen, tussen verschillende schermen in een applicatie. Application state maakt het mogelijk om wijzigingen in real-time door te voeren, waardoor gebruikers altijd actuele informatie zien, ongeacht waar ze zich in de app bevinden. Dit resulteert in een verbeterde gebruikerservaring dankzij hogere prestaties en minder vertragingen. Bovendien zorgt het gebruik van application state voor een betrouwbare werking van de applicatie, doordat data centraal wordt beheerd en gedeeld, wat essentieel is voor dynamische en interactieve toepassingen.
@@ -854,10 +854,10 @@ Voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier
     },
     "12.5 Mondeling en schriftelijk communiceren in het kader van een sollicitatie": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "Jochen",
-      "project": "Stagesollicitatie, stage carroussel",
-      "bewijs": "Behaald doormiddel van:<br/>mijn sollicitatieproces voor een stage. Tijdens deze periode heb ik verschillende bedrijven benaderd, waarbij ik zorgvuldig mijn communicatie voorbereidde en onderhield. Dit omvatte het schrijven van professionele e-mails, het voeren van netwerkgesprekken en het opvolgen van mijn sollicitaties. Door deze aanpak heb ik niet alleen waardevolle contacten gelegd, maar ook mijn professionele vaardigheden verder ontwikkeld. <br/><br/> <img src='assets/12.3/stage.png'/>"
+      "project": "Stagesollicitatie, Sollicitatiecarrousel",
+      "bewijs": "Behaald doormiddel van:<br/>mijn sollicitatieproces voor een stage. Tijdens deze periode heb ik verschillende bedrijven benaderd, waarbij ik zorgvuldig mijn communicatie voorbereidde en onderhield. Dit omvatte het schrijven van professionele e-mails, het voeren van netwerkgesprekken en het opvolgen van mijn sollicitaties. Door deze aanpak heb ik niet alleen waardevolle contacten gelegd, maar ook mijn professionele vaardigheden verder ontwikkeld. <br/><br/> <img src='assets/12.3/stage.png'/><br/><br/> ook heb ik deelgenomen aan de sollicitatiecarrousel waarbij ik een sollicitatiegesprek heb gevoerd met een bedrijf. Hierbij heb ik mijn communicatievaardigheden kunnen aanscherpen en ervaring opgedaan met het voeren van sollicitatiegesprekken. <br/><br/> <img src='assets/12.5/SolicitatieCarousel.png'/>"
     },
     "12.6 Luisteren (B2), spreken (B2), lezen (B2) en schrijven (A2-B1) in het Engels": {
       "type": ["alles"],
@@ -1174,7 +1174,7 @@ Door deze onderwerpen te presenteren en te verdiepen, heb ik mijn kennis van opk
   "23 PROFESSIONEEL HANDELEN - Je handelt ethisch, deontologisch en maatschappelijk verantwoord en neemt verantwoordelijkheid voor resultaten.": {
     "23.1 Rekening houden met de ecologische, sociale en maatschappelijke impact van oplossingen en werkmethoden": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "td",
       "verified": "",
       "project": "RZL",
       "bewijs": ""
