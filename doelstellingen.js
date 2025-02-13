@@ -963,7 +963,7 @@ Door zowel theorie als praktijk te combineren, heb ik de studenten en coaches ee
     "16.1 Proactief zoeken en consulteren van de state-of-the-art binnen opdrachten en projecten": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Tech talk | Cloudflare - KV Worker",
       "bewijs": `
       Behaald door middel van:<br/>
@@ -976,7 +976,7 @@ Door zowel theorie als praktijk te combineren, heb ik de studenten en coaches ee
     "16.2 Beschrijven van de toekomstige trends binnen het eigen vakgebied": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Tech Talk | Flutter vs React Native",
       "bewijs": `
       
