@@ -350,7 +350,7 @@ const doelstellingen = {
     "7.5 Toepassen van machine learning algoritmen": {
       "type": ["app", "ai"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Tech Talk | PyCaret",
       "bewijs": `
           <h1>Toepassen van Machine Learning Algoritmen</h1>
