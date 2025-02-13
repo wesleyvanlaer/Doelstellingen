@@ -908,7 +908,7 @@ Voor grotere versie of klik <a href='assets/credits/RA.png' target='_blank'>hier
     "14.1 Overbrengen van IT-kennis aan een groep personen": {
       "type": ["alles"],
       "status": "d",
-      "verified": "",
+      "verified": "Bram Heyns",
       "project": "Tech Talk | PyCaret",
       "bewijs": `
       
