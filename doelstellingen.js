@@ -405,12 +405,22 @@ const doelstellingen = {
     },
     "7.8 Bouwen van een single page applicatie inclusief application state": {
       "type": ["app"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "TMEnt-006",
-      "bewijs": `${makeAccordion(ENT)} Behaald doormiddel van het gebruik van application state: Het consistent beheren van data, zoals gebruikersinformatie en instellingen, tussen verschillende schermen in een applicatie. Application state maakt het mogelijk om wijzigingen in real-time door te voeren, waardoor gebruikers altijd actuele informatie zien, ongeacht waar ze zich in de app bevinden. Dit resulteert in een verbeterde gebruikerservaring dankzij hogere prestaties en minder vertragingen. Bovendien zorgt het gebruik van application state voor een betrouwbare werking van de applicatie, doordat data centraal wordt beheerd en gedeeld, wat essentieel is voor dynamische en interactieve toepassingen.
+      "bewijs": `${makeAccordion(ENT)}Behaald door het gebruik van application state: Het consistent beheren van gegevens, zoals gebruikersinformatie en instellingen, tussen verschillende schermen in een applicatie. Application state maakt het mogelijk om wijzigingen in real-time door te voeren, zodat gebruikers altijd de meest actuele informatie zien, ongeacht hun locatie binnen de app. Dit leidt tot een verbeterde gebruikerservaring dankzij hogere prestaties en minder vertraging. Bovendien draagt het gebruik van application state bij aan de betrouwbaarheid van de applicatie, doordat gegevens centraal worden beheerd en gedeeld, wat cruciaal is voor dynamische en interactieve toepassingen.
       <br/><br/>
-      hieronder een screenshot van de code:<br/><img src='assets/7.8/state.png'/>`
+
+Local state verwijst naar de toestand die specifiek is voor een enkel component in een applicatie. Het wordt gebruikt om gegevens binnen dat component te beheren, zoals de status van een formulier of een knop. Deze toestand beïnvloedt de weergave van dat specifieke component.
+      <br/><br/>
+
+Global state daarentegen is de toestand die gedeeld wordt door meerdere componenten binnen de applicatie. Het wordt gebruikt om gegevens zoals gebruikersinformatie of applicatie-instellingen centraal te beheren, zodat verschillende delen van de applicatie toegang hebben tot en kunnen reageren op dezelfde gegevens.
+      <br/><br/>
+      hieronder een screenshot van local state in de code:<br/><img src='assets/7.8/local state.png'/>
+      <br/>
+      hieronder een screenshot van local state in de code:<br/><img src='assets/7.8/Global state.png'/>`
+
+
     },
     "7.9 Uitbouw en gebruik Computer Vision technieken": {
       "type": ["ai"],
@@ -1070,10 +1080,12 @@ Door deze onderwerpen te presenteren en te verdiepen, heb ik mijn kennis van opk
     },
     "20.2 Zich correct opstellen in een conflictsituatie": {
       "type": ["alles"],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "KGK-001 - Kogeka",
-      "bewijs": "uitschrijven"
+      "bewijs": `${makeAccordion(KGK)}
+      <iframe src='assets/2à.2/STAR.pdf'/ class='w-full flex flex-grow' height='500' title='Star Document'></iframe>
+      `
     },
     "20.3 Actief deelnemen aan en leiden van vergaderingen": {
       "type": ["alles"],
